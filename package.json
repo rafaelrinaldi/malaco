@@ -13,7 +13,8 @@
     "cheerio": "^0.15.0",
     "q": "^1.0.1",
     "debug": "^0.8.1",
-    "mout": "^0.9.1"
+    "mout": "^0.9.1",
+    "googlemaps": "^0.1.9"
   },
   "dependencies": {
     "cheerio": "~0.15.0",
