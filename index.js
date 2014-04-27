@@ -3,7 +3,8 @@
 var getLines = require('./lib/services/getLines'),
     getStation = require('./lib/services/getStation'),
     getStatus = require('./lib/services/getStatus'),
-    getGeocode = require('./lib/services/getGeocode');
+    getGeocode = require('./lib/services/getGeocode'),
+    getStatusType = require('./lib/helpers/getStatusType');
 
 // getLines()
 //   .then(function(response) {
@@ -26,10 +27,15 @@ var getLines = require('./lib/services/getLines'),
 // });
 
 
-// getStatus();
+// getStatus()
+  // .then(function(response) {
+    // console.log('here');
+  // });
 
 // getGeocode('Tamanduatei, Brazil')
 //   .then(function(response) {
 //     console.log('->',response);
 //   })
 //   .done();
+
+
