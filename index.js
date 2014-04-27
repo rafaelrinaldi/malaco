@@ -5,15 +5,15 @@ var getLines = require('./lib/services/getLines'),
     getStatus = require('./lib/services/getStatus'),
     getGeocode = require('./lib/services/getGeocode');
 
-// getLines()
-//   .then(function(response) {
-//     console.log('success!', response);
-//   })
-//   .catch(function(error) {
-//     console.log('something went wrong');
-//     console.log(error);
-//   })
-//   .done();
+getLines()
+  .then(function(response) {
+    console.log('success!', response);
+  })
+  .catch(function(error) {
+    console.log('something went wrong');
+    console.log(error);
+  })
+  .done();
 
 // line: 'linha-3-vermelha',
 //   station: 'estacao-barra-funda'
@@ -26,10 +26,10 @@ var getLines = require('./lib/services/getLines'),
 // });
 
 
-getStatus()
-  .then(function(response) {
-    console.log(response);
-  });
+// getStatus()
+//   .then(function(response) {
+//     console.log(response);
+//   });
 
 // getGeocode('Tamanduatei, Brazil')
 //   .then(function(response) {
