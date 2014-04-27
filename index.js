@@ -28,7 +28,7 @@ var getLines = require('./lib/services/getLines'),
 
 getStatus()
   .then(function(response) {
-    // console.log('here');
+    console.log('here');
   });
 
 // getGeocode('Tamanduatei, Brazil')
