@@ -3,8 +3,7 @@
 var getLines = require('./lib/services/getLines'),
     getStation = require('./lib/services/getStation'),
     getStatus = require('./lib/services/getStatus'),
-    getGeocode = require('./lib/services/getGeocode'),
-    getStatusType = require('./lib/helpers/getStatusType');
+    getGeocode = require('./lib/services/getGeocode');
 
 // getLines()
 //   .then(function(response) {
