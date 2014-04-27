@@ -1,0 +1,36 @@
+{
+  "name": "siga-api",
+  "version": "0.0.0",
+  "description": "Simple API to access data of Sao Paulo's subway system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Rinaldi <rafael.rinaldi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "superagent": "^0.17.0",
+    "cheerio": "^0.15.0",
+    "q": "^1.0.1",
+    "debug": "^0.8.1",
+    "mout": "^0.9.1"
+  },
+  "dependencies": {
+    "cheerio": "~0.15.0",
+    "debug": "~0.8.1",
+    "q": "~1.0.1",
+    "mout": "~0.9.1",
+    "superagent": "~0.17.0"
+  },
+  "keywords": [
+    "api",
+    "sao",
+    "paulo",
+    "sp",
+    "subway",
+    "open",
+    "data",
+    "brazil",
+    "metro"
+  ]
+}
