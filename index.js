@@ -26,10 +26,10 @@ var getLines = require('./lib/services/getLines'),
 // });
 
 
-// getStatus()
-  // .then(function(response) {
+getStatus()
+  .then(function(response) {
     // console.log('here');
-  // });
+  });
 
 // getGeocode('Tamanduatei, Brazil')
 //   .then(function(response) {
