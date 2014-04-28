@@ -1,19 +1,23 @@
 'use strict';
 
-var getLines = require('./lib/services/getLines'),
+var getCoverage = require('./lib/services/getCoverage'),
     getStation = require('./lib/services/getStation'),
     getStatus = require('./lib/services/getStatus'),
     getGeocode = require('./lib/services/getGeocode');
 
-getLines()
-  .then(function(response) {
-    console.log(response);
-  });
-
-// getStation('estacao-sao-bento')
+// getCoverage()
 //   .then(function(response) {
 //     console.log(response);
 //   });
+
+// var lines = require('./lib/services/getLines');
+
+// console.log(lines('estacao-sao-bento'));
+
+// getStation('estacao-sao-bento');
+  // .then(function(response) {
+    // console.log(response);
+  // });
 
 // var a = require('./lib/data/stations');
 // var all = {};
