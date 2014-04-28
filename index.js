@@ -6,14 +6,29 @@ var getLines = require('./lib/services/getLines'),
     getGeocode = require('./lib/services/getGeocode');
 
 getLines()
+  .then(function(response) {
+    console.log(response);
+  });
 
-// getStation({
-//   line: 'linha-1-azul',
-//   station: 'estacao-sao-bento'
-// })
-// .then(function(response) {
-//   console.log(response);
-// });
+// getStation('estacao-sao-bento')
+//   .then(function(response) {
+//     console.log(response);
+//   });
+
+// var a = require('./lib/data/stations');
+// var all = {};
+
+// for(var key in a) {
+//   var line;
+//   all[key] = {
+//     lines: [],
+//     location: {
+//       address: a[key]
+//     }
+//   }
+// }
+
+// console.log(all);
 
 // getStatus()
 //   .then(function(response) {
