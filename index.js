@@ -3,7 +3,8 @@
 var getCoverage = require('./lib/services/getCoverage'),
     getStation = require('./lib/services/getStation'),
     getStatus = require('./lib/services/getStatus'),
-    getGeocode = require('./lib/services/getGeocode');
+    getGeocode = require('./lib/services/getGeocode'),
+    getDirections = require('./lib/services/getDirections');
 
 // getCoverage()
 //   .then(function(response) {
@@ -14,10 +15,10 @@ var getCoverage = require('./lib/services/getCoverage'),
 
 // console.log(lines('estacao-sao-bento'));
 
-// getStation('estacao-sao-bento');
-  // .then(function(response) {
-    // console.log(response);
-  // });
+// getStation('estacao-sao-bento')
+//   .then(function(response) {
+//     console.log(response);
+//   });
 
 // var a = require('./lib/data/stations');
 // var all = {};
@@ -34,10 +35,10 @@ var getCoverage = require('./lib/services/getCoverage'),
 
 // console.log(all);
 
-// getStatus()
-//   .then(function(response) {
-//     console.log(response);
-//   });
+getStatus()
+  .then(function(response) {
+    console.log(response);
+  });
 
 // getGeocode('Tamanduatei, Brazil')
 //   .then(function(response) {
