@@ -4,12 +4,14 @@ var getCoverage = require('./lib/services/getCoverage'),
     getStation = require('./lib/services/getStation'),
     getStatus = require('./lib/services/getStatus'),
     getGeocode = require('./lib/services/getGeocode'),
-    getDirections = require('./lib/services/getDirections');
+    getDirections = require('./lib/services/getDirections'),
+    parseStations = require('./lib/parsers/getCoverage/parseStations');
 
-// getCoverage()
-//   .then(function(response) {
-//     console.log(response);
-//   });
+getCoverage()
+  .then(function(response) {
+    console.log(response);
+    // console.log(parseStations(response));
+  });
 
 // var lines = require('./lib/services/getLines');
 
@@ -35,10 +37,10 @@ var getCoverage = require('./lib/services/getCoverage'),
 
 // console.log(all);
 
-getStatus()
-  .then(function(response) {
-    console.log(response);
-  });
+// getStatus()
+//   .then(function(response) {
+//     console.log(response);
+//   });
 
 // getGeocode('Tamanduatei, Brazil')
 //   .then(function(response) {
@@ -47,3 +49,4 @@ getStatus()
 //   .done();
 
 
+// getDirections();

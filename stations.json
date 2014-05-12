@@ -1,7 +1,10 @@
 {
   "estacao-jabaquara": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 0
+      }
     ],
     "location": {
       "address": "Term. Jabaquara, São Paulo, Brazil",
@@ -22,7 +25,10 @@
   },
   "estacao-conceicao": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 1
+      }
     ],
     "location": {
       "address": "Conceição, Vila Guarani, Sao Paulo - São Paulo, Brazil",
@@ -43,7 +49,10 @@
   },
   "estacao-sao-judas": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 2
+      }
     ],
     "location": {
       "address": "São Judas, São Paulo, Brazil",
@@ -64,7 +73,10 @@
   },
   "estacao-saude": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 3
+      }
     ],
     "location": {
       "address": "Saúde, Sao Paulo - São Paulo, Brazil",
@@ -85,7 +97,10 @@
   },
   "estacao-praca-arvore": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 4
+      }
     ],
     "location": {
       "address": "Praça Da Árvore, São Paulo, Brazil",
@@ -106,7 +121,10 @@
   },
   "estacao-santa-cruz": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 5
+      }
     ],
     "location": {
       "address": "Santa Cruz, São Paulo, Brazil",
@@ -127,7 +145,10 @@
   },
   "estacao-vila-mariana": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 6
+      }
     ],
     "location": {
       "address": "Vila Mariana, São Paulo, Brazil",
@@ -148,8 +169,14 @@
   },
   "estacao-ana-rosa": {
     "lines": [
-      "linha-1-azul",
-      "linha-2-verde"
+      {
+        "id": "linha-1-azul",
+        "stop": 7
+      },
+      {
+        "id": "linha-2-verde",
+        "stop": 6
+      }
     ],
     "location": {
       "address": "Ana Rosa, São Paulo, Brazil",
@@ -170,8 +197,14 @@
   },
   "estacao-paraiso": {
     "lines": [
-      "linha-1-azul",
-      "linha-2-verde"
+      {
+        "id": "linha-1-azul",
+        "stop": 8
+      },
+      {
+        "id": "linha-2-verde",
+        "stop": 7
+      }
     ],
     "location": {
       "address": "Estação Paraíso, São Paulo, Brazil",
@@ -192,7 +225,10 @@
   },
   "estacao-vergueiro": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 9
+      }
     ],
     "location": {
       "address": "Vergueiro, São Paulo, Brazil",
@@ -213,7 +249,10 @@
   },
   "estacao-sao-joaquim": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 10
+      }
     ],
     "location": {
       "address": "São Joaquim, São Paulo, Brazil",
@@ -234,7 +273,10 @@
   },
   "estacao-liberdade": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 11
+      }
     ],
     "location": {
       "address": "Estação Liberdade do Metro, São Paulo, Brazil",
@@ -255,8 +297,14 @@
   },
   "estacao-se": {
     "lines": [
-      "linha-1-azul",
-      "linha-3-vermelha"
+      {
+        "id": "linha-1-azul",
+        "stop": 12
+      },
+      {
+        "id": "linha-3-vermelha",
+        "stop": 12
+      }
     ],
     "location": {
       "address": "Praça da Sé, Centro, Sao Paulo - São Paulo, Brazil",
@@ -277,7 +325,10 @@
   },
   "estacao-sao-bento": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 13
+      }
     ],
     "location": {
       "address": "São Bento, São Paulo, Brazil",
@@ -298,8 +349,14 @@
   },
   "estacao-luz": {
     "lines": [
-      "linha-1-azul",
-      "linha-4-amarela"
+      {
+        "id": "linha-1-azul",
+        "stop": 14
+      },
+      {
+        "id": "linha-4-amarela",
+        "stop": 0
+      }
     ],
     "location": {
       "address": "Estação Luz do Metrô - Avenida Cásper Líbero, Luz, Sao Paulo - São Paulo, Brazil",
@@ -320,7 +377,10 @@
   },
   "estacao-tiradentes": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 15
+      }
     ],
     "location": {
       "address": "Tiradentes, Luz, Sao Paulo - São Paulo, Brazil",
@@ -341,7 +401,10 @@
   },
   "estacao-armenia": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 16
+      }
     ],
     "location": {
       "address": "Armênia, Luz, Sao Paulo - São Paulo, Brazil",
@@ -362,7 +425,10 @@
   },
   "estacao-portuguesa-tiete": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 17
+      }
     ],
     "location": {
       "address": "Portuguesa-tietê, Santana, Sao Paulo - São Paulo, Brazil",
@@ -383,7 +449,10 @@
   },
   "estacao-carandiru": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 18
+      }
     ],
     "location": {
       "address": "Carandiru, Santana, Sao Paulo - São Paulo, Brazil",
@@ -404,7 +473,10 @@
   },
   "estacao-santana": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 19
+      }
     ],
     "location": {
       "address": "Estação Santana - Rua Doutor César, Santana, Sao Paulo - São Paulo, Brazil",
@@ -425,7 +497,10 @@
   },
   "estacao-jardim-sao-paulo": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 20
+      }
     ],
     "location": {
       "address": "Jardim São Paulo-ayrton Senna, Jardim São Paulo, Sao Paulo - São Paulo, Brazil",
@@ -446,7 +521,10 @@
   },
   "estacao-parada-inglesa": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 21
+      }
     ],
     "location": {
       "address": "Parada Inglesa, Sao Paulo - São Paulo, Brazil",
@@ -467,7 +545,10 @@
   },
   "estacao-tucuruvi": {
     "lines": [
-      "linha-1-azul"
+      {
+        "id": "linha-1-azul",
+        "stop": 22
+      }
     ],
     "location": {
       "address": "Tucuruvi, Vila Gustavo, Sao Paulo - São Paulo, Brazil",
@@ -488,7 +569,10 @@
   },
   "estacao-vila-prudente": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 0
+      }
     ],
     "location": {
       "address": "Vila Prudente, Sao Paulo - São Paulo, Brazil",
@@ -509,7 +593,10 @@
   },
   "estacao-tamanduatei": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 1
+      }
     ],
     "location": {
       "address": "Tamanduatei, Vila Independência, Sao Paulo - São Paulo, Brazil",
@@ -530,7 +617,10 @@
   },
   "estacao-sacoma": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 2
+      }
     ],
     "location": {
       "address": "Estação Sacomâ de Metrô - Rua Greenfeld, Sacomã, Sao Paulo - São Paulo, Brazil",
@@ -551,7 +641,10 @@
   },
   "estacao-alto-ipiranga": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 3
+      }
     ],
     "location": {
       "address": "Alto Do Ipiranga, Vila Dom Pedro I, Sao Paulo - São Paulo, Brazil",
@@ -572,7 +665,10 @@
   },
   "estacao-santos-imigrantes": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 4
+      }
     ],
     "location": {
       "address": "Santos-imigrantes, Vila Firmiano Pinto, Sao Paulo - São Paulo, Brazil",
@@ -593,7 +689,10 @@
   },
   "estacao-chacara-klabin": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 5
+      }
     ],
     "location": {
       "address": "Chácara Klabin, Jardim Vila Mariana, Sao Paulo - São Paulo, Brazil",
@@ -614,7 +713,10 @@
   },
   "estacao-brigadeiro": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 8
+      }
     ],
     "location": {
       "address": "Estação Brigadeiro de Metro, São Paulo, Brazil",
@@ -635,7 +737,10 @@
   },
   "estacao-trianon-masp": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 9
+      }
     ],
     "location": {
       "address": "Trianon-masp, São Paulo, Brazil",
@@ -656,7 +761,10 @@
   },
   "estacao-consolacao": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 10
+      }
     ],
     "location": {
       "address": "Consolação, Consolacao, Sao Paulo - São Paulo, Brazil",
@@ -677,7 +785,10 @@
   },
   "estacao-clinicas": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 11
+      }
     ],
     "location": {
       "address": "Estação das Clinicas, São Paulo, Brazil",
@@ -698,7 +809,10 @@
   },
   "estacao-sumare": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 12
+      }
     ],
     "location": {
       "address": "Metro Sumare, São Paulo, Brazil",
@@ -719,7 +833,10 @@
   },
   "estacao-vila-madalena": {
     "lines": [
-      "linha-2-verde"
+      {
+        "id": "linha-2-verde",
+        "stop": 13
+      }
     ],
     "location": {
       "address": "Vila Madalena, São Paulo, Brazil",
@@ -740,7 +857,10 @@
   },
   "estacao-itaquera": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 0
+      }
     ],
     "location": {
       "address": "Corinthians-itaquera, Cidade Antonio Estevão de Carvalho, Sao Paulo - São Paulo, Brazil",
@@ -761,7 +881,10 @@
   },
   "estacao-artur-alvim": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 1
+      }
     ],
     "location": {
       "address": "Artur Alvim, Cidade Antonio Estevão de Carvalho, Sao Paulo - São Paulo, Brazil",
@@ -782,7 +905,10 @@
   },
   "estacao-patriarca": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 2
+      }
     ],
     "location": {
       "address": "Patriarca, São Paulo, Brazil",
@@ -803,7 +929,10 @@
   },
   "estacao-guilhermina-esperanca": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 3
+      }
     ],
     "location": {
       "address": "Estação Guilhermina - Esperança, São Paulo, Brazil",
@@ -824,7 +953,10 @@
   },
   "estacao-vila-matilde": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 4
+      }
     ],
     "location": {
       "address": "Estação Vila Matilde, São Paulo, Brazil",
@@ -845,7 +977,10 @@
   },
   "estacao-penha": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 5
+      }
     ],
     "location": {
       "address": "Penha, Penha de Franca, Sao Paulo - São Paulo, Brazil",
@@ -866,7 +1001,10 @@
   },
   "estacao-carrao": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 6
+      }
     ],
     "location": {
       "address": "Carrão, Tatuapé, Sao Paulo - São Paulo, Brazil",
@@ -887,7 +1025,10 @@
   },
   "estacao-tatuape": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 7
+      }
     ],
     "location": {
       "address": "Estação Tatuape, São Paulo, Brazil",
@@ -908,7 +1049,10 @@
   },
   "estacao-belem": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 8
+      }
     ],
     "location": {
       "address": "Metrô Belém - Avenida Alcântara Machado, Belenzinho, Sao Paulo - São Paulo, Brazil",
@@ -929,7 +1073,10 @@
   },
   "estacao-bresser-mooca": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 9
+      }
     ],
     "location": {
       "address": "Bresser-mooca, Brás, Sao Paulo - São Paulo, Brazil",
@@ -950,7 +1097,10 @@
   },
   "estacao-bras": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 10
+      }
     ],
     "location": {
       "address": "Bras, Brás, Sao Paulo - São Paulo, Brazil",
@@ -971,7 +1121,10 @@
   },
   "estacao-pedro-II": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 11
+      }
     ],
     "location": {
       "address": "Pedro II, São Paulo, Brazil",
@@ -992,7 +1145,10 @@
   },
   "estacao-anhangabau": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 13
+      }
     ],
     "location": {
       "address": "Anhangabaú, Consolacao, Sao Paulo - São Paulo, Brazil",
@@ -1013,8 +1169,14 @@
   },
   "estacao-republica": {
     "lines": [
-      "linha-3-vermelha",
-      "linha-4-amarela"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 14
+      },
+      {
+        "id": "linha-4-amarela",
+        "stop": 1
+      }
     ],
     "location": {
       "address": "República, Sao Paulo - São Paulo, Brazil",
@@ -1035,7 +1197,10 @@
   },
   "estacao-santa-cecilia": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 15
+      }
     ],
     "location": {
       "address": "Santa Cecília, São Paulo, Brazil",
@@ -1056,7 +1221,10 @@
   },
   "estacao-marechal-deodoro": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 16
+      }
     ],
     "location": {
       "address": "Marechal Deodoro, São Paulo, Brazil",
@@ -1077,7 +1245,10 @@
   },
   "estacao-barra-funda": {
     "lines": [
-      "linha-3-vermelha"
+      {
+        "id": "linha-3-vermelha",
+        "stop": 17
+      }
     ],
     "location": {
       "address": "Barra Funda, São Paulo, Brazil",
@@ -1098,7 +1269,10 @@
   },
   "estacao-paulista": {
     "lines": [
-      "linha-4-amarela"
+      {
+        "id": "linha-4-amarela",
+        "stop": 2
+      }
     ],
     "location": {
       "address": "Estação Paulista do Metro, São Paulo, Brazil",
@@ -1119,7 +1293,10 @@
   },
   "estacao-faria-lima": {
     "lines": [
-      "linha-4-amarela"
+      {
+        "id": "linha-4-amarela",
+        "stop": 3
+      }
     ],
     "location": {
       "address": "Faria Lima, Pinheiros, Sao Paulo - São Paulo, Brazil",
@@ -1140,7 +1317,10 @@
   },
   "estacao-pinheiros": {
     "lines": [
-      "linha-4-amarela"
+      {
+        "id": "linha-4-amarela",
+        "stop": 4
+      }
     ],
     "location": {
       "address": "Estação Pinheiros De Metrô - Rua Gilberto Sabino, Pinheiros, Sao Paulo - São Paulo, Brazil",
@@ -1161,7 +1341,10 @@
   },
   "estacao-butanta": {
     "lines": [
-      "linha-4-amarela"
+      {
+        "id": "linha-4-amarela",
+        "stop": 5
+      }
     ],
     "location": {
       "address": "Estação Butanta metro - Avenida Vital Brasil, Butantã, Sao Paulo - São Paulo, Brazil",
@@ -1182,7 +1365,10 @@
   },
   "estacao-capao-redondo": {
     "lines": [
-      "linha-5-lilas"
+      {
+        "id": "linha-5-lilas",
+        "stop": 0
+      }
     ],
     "location": {
       "address": "Capão Redondo, Cidade Auxiliadora, Sao Paulo - São Paulo, Brazil",
@@ -1199,7 +1385,10 @@
   },
   "estacao-campo-limpo": {
     "lines": [
-      "linha-5-lilas"
+      {
+        "id": "linha-5-lilas",
+        "stop": 1
+      }
     ],
     "location": {
       "address": "Campo Limpo, Cidade Auxiliadora, Sao Paulo - São Paulo, Brazil",
@@ -1216,7 +1405,10 @@
   },
   "estacao-vila-belezas": {
     "lines": [
-      "linha-5-lilas"
+      {
+        "id": "linha-5-lilas",
+        "stop": 2
+      }
     ],
     "location": {
       "address": "Estação Vila das Belezas - Rua Inácio Preto de Morais, Vila Nova das Belezas, Sao Paulo - São Paulo, Brazil",
@@ -1233,7 +1425,10 @@
   },
   "estacao-giovanni-gronchi": {
     "lines": [
-      "linha-5-lilas"
+      {
+        "id": "linha-5-lilas",
+        "stop": 3
+      }
     ],
     "location": {
       "address": "Giovanni Gronchi, Jardim Mirante, Sao Paulo - São Paulo, Brazil",
@@ -1250,7 +1445,10 @@
   },
   "estacao-santo-amaro": {
     "lines": [
-      "linha-5-lilas"
+      {
+        "id": "linha-5-lilas",
+        "stop": 4
+      }
     ],
     "location": {
       "address": "Santo Amaro, Jardim São Luís (Zona Oeste), Sao Paulo - São Paulo, Brazil",
@@ -1267,7 +1465,10 @@
   },
   "estacao-largo-treze": {
     "lines": [
-      "linha-5-lilas"
+      {
+        "id": "linha-5-lilas",
+        "stop": 5
+      }
     ],
     "location": {
       "address": "Largo Treze, Santo Amaro, Sao Paulo - São Paulo, Brazil",
