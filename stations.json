@@ -7,9 +7,10 @@
       }
     ],
     "location": {
-      "address": "Term. Jabaquara, São Paulo, Brazil",
-      "latitude": -23.647066,
-      "longitude": -46.63954
+      "address": {
+        "latitude": "-23.645754",
+        "longitude": "-46.642084"
+      }
     },
     "title": "Jabaquara",
     "schedule": [
@@ -31,9 +32,10 @@
       }
     ],
     "location": {
-      "address": "Conceição, Vila Guarani, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.636214,
-      "longitude": -46.641141
+      "address": {
+        "latitude": "-23.63537",
+        "longitude": "-46.64146"
+      }
     },
     "title": "Conceição",
     "schedule": [
@@ -55,9 +57,10 @@
       }
     ],
     "location": {
-      "address": "São Judas, São Paulo, Brazil",
-      "latitude": -23.6244547,
-      "longitude": -46.6379525
+      "address": {
+        "latitude": "-23.62558",
+        "longitude": "-46.640778"
+      }
     },
     "title": "São Judas",
     "schedule": [
@@ -79,9 +82,10 @@
       }
     ],
     "location": {
-      "address": "Saúde, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.617243,
-      "longitude": -46.6343336
+      "address": {
+        "latitude": "-23.619207",
+        "longitude": "-46.639354"
+      }
     },
     "title": "Saúde",
     "schedule": [
@@ -103,9 +107,10 @@
       }
     ],
     "location": {
-      "address": "Praça Da Árvore, São Paulo, Brazil",
-      "latitude": -23.61069,
-      "longitude": -46.637852
+      "address": {
+        "latitude": "-23.61069",
+        "longitude": "-46.637852"
+      }
     },
     "title": "Praça Da árvore",
     "schedule": [
@@ -127,9 +132,10 @@
       }
     ],
     "location": {
-      "address": "Santa Cruz, São Paulo, Brazil",
-      "latitude": -23.599225,
-      "longitude": -46.63665899999999
+      "address": {
+        "latitude": "-23.599225",
+        "longitude": "-46.636659"
+      }
     },
     "title": "Santa Cruz",
     "schedule": [
@@ -151,9 +157,10 @@
       }
     ],
     "location": {
-      "address": "Vila Mariana, São Paulo, Brazil",
-      "latitude": -23.5870563,
-      "longitude": -46.63574370000001
+      "address": {
+        "latitude": "-23.589541",
+        "longitude": "-46.634701"
+      }
     },
     "title": "Vila Mariana",
     "schedule": [
@@ -179,9 +186,10 @@
       }
     ],
     "location": {
-      "address": "Ana Rosa, São Paulo, Brazil",
-      "latitude": -23.581376,
-      "longitude": -46.638388
+      "address": {
+        "latitude": "-23.581376",
+        "longitude": "-46.638388"
+      }
     },
     "title": "Ana Rosa",
     "schedule": [
@@ -207,9 +215,10 @@
       }
     ],
     "location": {
-      "address": "Estação Paraíso, São Paulo, Brazil",
-      "latitude": -23.575922,
-      "longitude": -46.64141
+      "address": {
+        "latitude": "-23.575029",
+        "longitude": "-46.64075"
+      }
     },
     "title": "Paraíso",
     "schedule": [
@@ -231,9 +240,10 @@
       }
     ],
     "location": {
-      "address": "Vergueiro, São Paulo, Brazil",
-      "latitude": -23.568994,
-      "longitude": -46.639858
+      "address": {
+        "latitude": "-23.568994",
+        "longitude": "-46.639858"
+      }
     },
     "title": "Vergueiro",
     "schedule": [
@@ -255,9 +265,10 @@
       }
     ],
     "location": {
-      "address": "São Joaquim, São Paulo, Brazil",
-      "latitude": -22.8,
-      "longitude": -47.766667
+      "address": {
+        "latitude": "-23.561912",
+        "longitude": "-46.638652"
+      }
     },
     "title": "São Joaquim",
     "schedule": [
@@ -279,9 +290,10 @@
       }
     ],
     "location": {
-      "address": "Estação Liberdade do Metro, São Paulo, Brazil",
-      "latitude": -23.5555348,
-      "longitude": -46.6359564
+      "address": {
+        "latitude": "-23.555535",
+        "longitude": "-46.635956"
+      }
     },
     "title": "Liberdade",
     "schedule": [
@@ -307,9 +319,10 @@
       }
     ],
     "location": {
-      "address": "Praça da Sé, Centro, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.5492908,
-      "longitude": -46.6334714
+      "address": {
+        "latitude": "-23.549918",
+        "longitude": "-46.633204"
+      }
     },
     "title": "Sé",
     "schedule": [
@@ -331,9 +344,10 @@
       }
     ],
     "location": {
-      "address": "São Bento, São Paulo, Brazil",
-      "latitude": -23.4346555,
-      "longitude": -46.2494721
+      "address": {
+        "latitude": "-23.54469",
+        "longitude": "-46.633263"
+      }
     },
     "title": "São Bento",
     "schedule": [
@@ -359,9 +373,10 @@
       }
     ],
     "location": {
-      "address": "Estação Luz do Metrô - Avenida Cásper Líbero, Luz, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.538548,
-      "longitude": -46.6360091
+      "address": {
+        "latitude": "-23.537952",
+        "longitude": "-46.633515"
+      }
     },
     "title": "Luz",
     "schedule": [
@@ -383,9 +398,10 @@
       }
     ],
     "location": {
-      "address": "Tiradentes, Luz, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.530857,
-      "longitude": -46.63195899999999
+      "address": {
+        "latitude": "-23.5337729",
+        "longitude": "-46.63232"
+      }
     },
     "title": "Tiradentes",
     "schedule": [
@@ -407,9 +423,10 @@
       }
     ],
     "location": {
-      "address": "Armênia, Luz, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.5254296,
-      "longitude": -46.62611039999999
+      "address": {
+        "latitude": "-23.5295174",
+        "longitude": "-46.6314382"
+      }
     },
     "title": "Armênia",
     "schedule": [
@@ -431,9 +448,10 @@
       }
     ],
     "location": {
-      "address": "Portuguesa-tietê, Santana, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.516587,
-      "longitude": -46.62512299999999
+      "address": {
+        "latitude": "-23.516587",
+        "longitude": "-46.625123"
+      }
     },
     "title": "Portuguesa - Tietê",
     "schedule": [
@@ -455,9 +473,10 @@
       }
     ],
     "location": {
-      "address": "Carandiru, Santana, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.509654,
-      "longitude": -46.62491
+      "address": {
+        "latitude": "-23.509654",
+        "longitude": "-46.62491"
+      }
     },
     "title": "Carandiru",
     "schedule": [
@@ -479,9 +498,10 @@
       }
     ],
     "location": {
-      "address": "Estação Santana - Rua Doutor César, Santana, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.5163291,
-      "longitude": -46.1900731
+      "address": {
+        "latitude": "-23.503134",
+        "longitude": "-46.623861"
+      }
     },
     "title": "Santana",
     "schedule": [
@@ -503,9 +523,10 @@
       }
     ],
     "location": {
-      "address": "Jardim São Paulo-ayrton Senna, Jardim São Paulo, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.492233,
-      "longitude": -46.616687
+      "address": {
+        "latitude": "-23.492233",
+        "longitude": "-46.616687"
+      }
     },
     "title": "Jardim São Paulo - Ayrton Senna",
     "schedule": [
@@ -527,9 +548,10 @@
       }
     ],
     "location": {
-      "address": "Parada Inglesa, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.4877778,
-      "longitude": -46.6080556
+      "address": {
+        "latitude": "-23.487111",
+        "longitude": "-46.608877"
+      }
     },
     "title": "Parada Inglesa",
     "schedule": [
@@ -551,9 +573,10 @@
       }
     ],
     "location": {
-      "address": "Tucuruvi, Vila Gustavo, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.480048,
-      "longitude": -46.60321099999999
+      "address": {
+        "latitude": "-23.480048",
+        "longitude": "-46.603211"
+      }
     },
     "title": "Tucuruvi",
     "schedule": [
@@ -575,9 +598,10 @@
       }
     ],
     "location": {
-      "address": "Vila Prudente, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.5797895,
-      "longitude": -46.5812872
+      "address": {
+        "latitude": "-23.584695",
+        "longitude": "-46.58153"
+      }
     },
     "title": "Vila Prudente",
     "schedule": [
@@ -599,9 +623,10 @@
       }
     ],
     "location": {
-      "address": "Tamanduatei, Vila Independência, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.592985,
-      "longitude": -46.589293
+      "address": {
+        "latitude": "-23.592984",
+        "longitude": "-46.589602"
+      }
     },
     "title": "Tamanduateí",
     "schedule": [
@@ -623,9 +648,10 @@
       }
     ],
     "location": {
-      "address": "Estação Sacomâ de Metrô - Rua Greenfeld, Sacomã, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.6012939,
-      "longitude": -46.6022211
+      "address": {
+        "latitude": "-23.602456",
+        "longitude": "-46.602319"
+      }
     },
     "title": "Sacomã",
     "schedule": [
@@ -647,9 +673,10 @@
       }
     ],
     "location": {
-      "address": "Alto Do Ipiranga, Vila Dom Pedro I, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.602126,
-      "longitude": -46.612638
+      "address": {
+        "latitude": "-23.602437",
+        "longitude": "-46.612713"
+      }
     },
     "title": "Alto Do Ipiranga",
     "schedule": [
@@ -671,9 +698,10 @@
       }
     ],
     "location": {
-      "address": "Santos-imigrantes, Vila Firmiano Pinto, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.595716,
-      "longitude": -46.620723
+      "address": {
+        "latitude": "-23.595716",
+        "longitude": "-46.620723"
+      }
     },
     "title": "Santos - Imigrantes",
     "schedule": [
@@ -695,9 +723,10 @@
       }
     ],
     "location": {
-      "address": "Chácara Klabin, Jardim Vila Mariana, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.592527,
-      "longitude": -46.630193
+      "address": {
+        "latitude": "-23.592527",
+        "longitude": "-46.630193"
+      }
     },
     "title": "Chácara Klabin",
     "schedule": [
@@ -719,9 +748,10 @@
       }
     ],
     "location": {
-      "address": "Estação Brigadeiro de Metro, São Paulo, Brazil",
-      "latitude": -23.568277,
-      "longitude": -46.648152
+      "address": {
+        "latitude": "-23.568241",
+        "longitude": "-46.647981"
+      }
     },
     "title": "Brigadeiro",
     "schedule": [
@@ -743,9 +773,10 @@
       }
     ],
     "location": {
-      "address": "Trianon-masp, São Paulo, Brazil",
-      "latitude": -23.562506,
-      "longitude": -46.65516299999999
+      "address": {
+        "latitude": "-23.5619028",
+        "longitude": "-46.6468096"
+      }
     },
     "title": "Trianon - Masp",
     "schedule": [
@@ -767,9 +798,10 @@
       }
     ],
     "location": {
-      "address": "Consolação, Consolacao, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.556094,
-      "longitude": -46.662443
+      "address": {
+        "latitude": "-23.558559",
+        "longitude": "-46.659569"
+      }
     },
     "title": "Consolação",
     "schedule": [
@@ -791,9 +823,10 @@
       }
     ],
     "location": {
-      "address": "Estação das Clinicas, São Paulo, Brazil",
-      "latitude": -23.55419,
-      "longitude": -46.670723
+      "address": {
+        "latitude": "-23.555581",
+        "longitude": "-46.671949"
+      }
     },
     "title": "Clínicas",
     "schedule": [
@@ -815,9 +848,10 @@
       }
     ],
     "location": {
-      "address": "Metro Sumare, São Paulo, Brazil",
-      "latitude": -23.5506341,
-      "longitude": -46.6782604
+      "address": {
+        "latitude": "-23.5506341",
+        "longitude": "-46.6782604"
+      }
     },
     "title": "S. N. Sra. De Fátima - Sumaré",
     "schedule": [
@@ -839,9 +873,10 @@
       }
     ],
     "location": {
-      "address": "Vila Madalena, São Paulo, Brazil",
-      "latitude": -23.5452786,
-      "longitude": -46.7019289
+      "address": {
+        "latitude": "-23.54672",
+        "longitude": "-46.690738"
+      }
     },
     "title": "Vila Madalena",
     "schedule": [
@@ -863,9 +898,10 @@
       }
     ],
     "location": {
-      "address": "Corinthians-itaquera, Cidade Antonio Estevão de Carvalho, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.541854,
-      "longitude": -46.470514
+      "address": {
+        "latitude": "-23.541854",
+        "longitude": "-46.470514"
+      }
     },
     "title": "Corinthians - Itaquera",
     "schedule": [
@@ -887,9 +923,10 @@
       }
     ],
     "location": {
-      "address": "Artur Alvim, Cidade Antonio Estevão de Carvalho, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.540491,
-      "longitude": -46.484316
+      "address": {
+        "latitude": "-23.541022",
+        "longitude": "-46.4847"
+      }
     },
     "title": "Artur Alvim",
     "schedule": [
@@ -911,9 +948,10 @@
       }
     ],
     "location": {
-      "address": "Patriarca, São Paulo, Brazil",
-      "latitude": -23.531079,
-      "longitude": -46.501715
+      "address": {
+        "latitude": "-23.531079",
+        "longitude": "-46.501715"
+      }
     },
     "title": "Patriarca",
     "schedule": [
@@ -935,9 +973,10 @@
       }
     ],
     "location": {
-      "address": "Estação Guilhermina - Esperança, São Paulo, Brazil",
-      "latitude": -23.5296917,
-      "longitude": -46.51677129999999
+      "address": {
+        "latitude": "-23.529195",
+        "longitude": "-46.516734"
+      }
     },
     "title": "Guilhermina - Esperança",
     "schedule": [
@@ -959,9 +998,10 @@
       }
     ],
     "location": {
-      "address": "Estação Vila Matilde, São Paulo, Brazil",
-      "latitude": -23.531903,
-      "longitude": -46.530539
+      "address": {
+        "latitude": "-23.531903",
+        "longitude": "-46.530539"
+      }
     },
     "title": "Vila Matilde",
     "schedule": [
@@ -983,9 +1023,10 @@
       }
     ],
     "location": {
-      "address": "Penha, Penha de Franca, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.533648,
-      "longitude": -46.54395
+      "address": {
+        "latitude": "-23.532992",
+        "longitude": "-46.542828"
+      }
     },
     "title": "Penha",
     "schedule": [
@@ -1007,9 +1048,10 @@
       }
     ],
     "location": {
-      "address": "Carrão, Tatuapé, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.537601,
-      "longitude": -46.563637
+      "address": {
+        "latitude": "-23.538001",
+        "longitude": "-46.561886"
+      }
     },
     "title": "Carrão",
     "schedule": [
@@ -1031,9 +1073,10 @@
       }
     ],
     "location": {
-      "address": "Estação Tatuape, São Paulo, Brazil",
-      "latitude": -23.540188,
-      "longitude": -46.576371
+      "address": {
+        "latitude": "-23.542064",
+        "longitude": "-46.576215"
+      }
     },
     "title": "Tatuapé",
     "schedule": [
@@ -1055,9 +1098,10 @@
       }
     ],
     "location": {
-      "address": "Metrô Belém - Avenida Alcântara Machado, Belenzinho, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.5480192,
-      "longitude": -46.6029175
+      "address": {
+        "latitude": "-23.54223",
+        "longitude": "-46.589778"
+      }
     },
     "title": "Belém",
     "schedule": [
@@ -1079,9 +1123,10 @@
       }
     ],
     "location": {
-      "address": "Bresser-mooca, Brás, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.546596,
-      "longitude": -46.607323
+      "address": {
+        "latitude": "-23.546596",
+        "longitude": "-46.607323"
+      }
     },
     "title": "Bresser - Mooca",
     "schedule": [
@@ -1103,9 +1148,10 @@
       }
     ],
     "location": {
-      "address": "Bras, Brás, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.544917,
-      "longitude": -46.616052
+      "address": {
+        "latitude": "-23.547686",
+        "longitude": "-46.615285"
+      }
     },
     "title": "Brás",
     "schedule": [
@@ -1127,9 +1173,10 @@
       }
     ],
     "location": {
-      "address": "Pedro II, São Paulo, Brazil",
-      "latitude": -23.549809,
-      "longitude": -46.625474
+      "address": {
+        "latitude": "-23.550022",
+        "longitude": "-46.625727"
+      }
     },
     "title": "Pedro Ii",
     "schedule": [
@@ -1151,9 +1198,10 @@
       }
     ],
     "location": {
-      "address": "Anhangabaú, Consolacao, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.547916,
-      "longitude": -46.63932399999999
+      "address": {
+        "latitude": "-23.547916",
+        "longitude": "-46.639324"
+      }
     },
     "title": "Anhangabaú",
     "schedule": [
@@ -1179,9 +1227,10 @@
       }
     ],
     "location": {
-      "address": "República, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.5430556,
-      "longitude": -46.64388890000001
+      "address": {
+        "latitude": "-23.541929",
+        "longitude": "-46.642249"
+      }
     },
     "title": "República",
     "schedule": [
@@ -1203,9 +1252,10 @@
       }
     ],
     "location": {
-      "address": "Santa Cecília, São Paulo, Brazil",
-      "latitude": -23.5381968,
-      "longitude": -46.6572575
+      "address": {
+        "latitude": "-23.538694",
+        "longitude": "-46.649732"
+      }
     },
     "title": "Santa Cecília",
     "schedule": [
@@ -1227,9 +1277,10 @@
       }
     ],
     "location": {
-      "address": "Marechal Deodoro, São Paulo, Brazil",
-      "latitude": -23.535048,
-      "longitude": -46.654522
+      "address": {
+        "latitude": "-23.533838",
+        "longitude": "-46.655863"
+      }
     },
     "title": "Marechal Deodoro",
     "schedule": [
@@ -1251,9 +1302,10 @@
       }
     ],
     "location": {
-      "address": "Barra Funda, São Paulo, Brazil",
-      "latitude": -23.5271139,
-      "longitude": -46.6596712
+      "address": {
+        "latitude": "-23.525714",
+        "longitude": "-46.666782"
+      }
     },
     "title": "Palmeiras - Barra Funda",
     "schedule": [
@@ -1275,9 +1327,10 @@
       }
     ],
     "location": {
-      "address": "Estação Paulista do Metro, São Paulo, Brazil",
-      "latitude": -23.555038,
-      "longitude": -46.6621
+      "address": {
+        "latitude": "-23.555391",
+        "longitude": "-46.662713"
+      }
     },
     "title": "Paulista",
     "schedule": [
@@ -1299,9 +1352,10 @@
       }
     ],
     "location": {
-      "address": "Faria Lima, Pinheiros, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.567605,
-      "longitude": -46.69279299999999
+      "address": {
+        "latitude": "-23.566972",
+        "longitude": "-46.693817"
+      }
     },
     "title": "Faria Lima",
     "schedule": [
@@ -1323,9 +1377,10 @@
       }
     ],
     "location": {
-      "address": "Estação Pinheiros De Metrô - Rua Gilberto Sabino, Pinheiros, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.5659344,
-      "longitude": -46.7010872
+      "address": {
+        "latitude": "-23.566499",
+        "longitude": "-46.702082"
+      }
     },
     "title": "Pinheiros",
     "schedule": [
@@ -1347,9 +1402,10 @@
       }
     ],
     "location": {
-      "address": "Estação Butanta metro - Avenida Vital Brasil, Butantã, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.565,
-      "longitude": -46.7069444
+      "address": {
+        "latitude": "-23.571563",
+        "longitude": "-46.708667"
+      }
     },
     "title": "Butantã",
     "schedule": [
@@ -1371,9 +1427,10 @@
       }
     ],
     "location": {
-      "address": "Capão Redondo, Cidade Auxiliadora, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.659955,
-      "longitude": -46.768691
+      "address": {
+        "latitude": "-23.659955",
+        "longitude": "-46.768691"
+      }
     },
     "title": "Capão Redondo",
     "schedule": [
@@ -1391,9 +1448,10 @@
       }
     ],
     "location": {
-      "address": "Campo Limpo, Cidade Auxiliadora, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.64897,
-      "longitude": -46.758831
+      "address": {
+        "latitude": "-23.64897",
+        "longitude": "-46.758831"
+      }
     },
     "title": "Campo Limpo",
     "schedule": [
@@ -1411,9 +1469,10 @@
       }
     ],
     "location": {
-      "address": "Estação Vila das Belezas - Rua Inácio Preto de Morais, Vila Nova das Belezas, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.6402473,
-      "longitude": -46.746074
+      "address": {
+        "latitude": "-23.640191",
+        "longitude": "-46.745659"
+      }
     },
     "title": "Vila Das Belezas",
     "schedule": [
@@ -1431,9 +1490,10 @@
       }
     ],
     "location": {
-      "address": "Giovanni Gronchi, Jardim Mirante, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.643901,
-      "longitude": -46.734486
+      "address": {
+        "latitude": "-23.643901",
+        "longitude": "-46.734486"
+      }
     },
     "title": "Giovanni Gronchi",
     "schedule": [
@@ -1451,9 +1511,10 @@
       }
     ],
     "location": {
-      "address": "Santo Amaro, Jardim São Luís (Zona Oeste), Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.5901467,
-      "longitude": -46.7658338
+      "address": {
+        "latitude": "-23.655916",
+        "longitude": "-46.719686"
+      }
     },
     "title": "Santo Amaro",
     "schedule": [
@@ -1471,9 +1532,10 @@
       }
     ],
     "location": {
-      "address": "Largo Treze, Santo Amaro, Sao Paulo - São Paulo, Brazil",
-      "latitude": -23.65453,
-      "longitude": -46.710536
+      "address": {
+        "latitude": "-23.65453",
+        "longitude": "-46.710536"
+      }
     },
     "title": "Largo Treze",
     "schedule": [
