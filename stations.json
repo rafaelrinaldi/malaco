@@ -2,8 +2,10 @@
   "estacao-jabaquara": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 0
+        "stop": 22
       }
     ],
     "id": "estacao-jabaquara",
@@ -27,8 +29,10 @@
   "estacao-conceicao": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 1
+        "stop": 22
       }
     ],
     "id": "estacao-conceicao",
@@ -52,8 +56,10 @@
   "estacao-sao-judas": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 2
+        "stop": 22
       }
     ],
     "id": "estacao-sao-judas",
@@ -77,8 +83,10 @@
   "estacao-saude": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 3
+        "stop": 22
       }
     ],
     "id": "estacao-saude",
@@ -102,8 +110,10 @@
   "estacao-praca-arvore": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 4
+        "stop": 22
       }
     ],
     "id": "estacao-praca-arvore",
@@ -127,8 +137,10 @@
   "estacao-santa-cruz": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 5
+        "stop": 22
       }
     ],
     "id": "estacao-santa-cruz",
@@ -152,8 +164,10 @@
   "estacao-vila-mariana": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 6
+        "stop": 22
       }
     ],
     "id": "estacao-vila-mariana",
@@ -177,12 +191,16 @@
   "estacao-ana-rosa": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 7
+        "stop": 22
       },
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 6
+        "stop": 13
       }
     ],
     "id": "estacao-ana-rosa",
@@ -206,12 +224,16 @@
   "estacao-paraiso": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 8
+        "stop": 22
       },
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 7
+        "stop": 13
       }
     ],
     "id": "estacao-paraiso",
@@ -235,8 +257,10 @@
   "estacao-vergueiro": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 9
+        "stop": 22
       }
     ],
     "id": "estacao-vergueiro",
@@ -260,8 +284,10 @@
   "estacao-sao-joaquim": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 10
+        "stop": 22
       }
     ],
     "id": "estacao-sao-joaquim",
@@ -285,8 +311,10 @@
   "estacao-liberdade": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 11
+        "stop": 22
       }
     ],
     "id": "estacao-liberdade",
@@ -310,12 +338,16 @@
   "estacao-se": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 12
+        "stop": 22
       },
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 12
+        "stop": 17
       }
     ],
     "id": "estacao-se",
@@ -339,8 +371,10 @@
   "estacao-sao-bento": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 13
+        "stop": 22
       }
     ],
     "id": "estacao-sao-bento",
@@ -364,12 +398,16 @@
   "estacao-luz": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 14
+        "stop": 22
       },
       {
+        "title": "Linha 4 - Amarela",
+        "color": "yellow",
         "id": "linha-4-amarela",
-        "stop": 0
+        "stop": 5
       }
     ],
     "id": "estacao-luz",
@@ -393,8 +431,10 @@
   "estacao-tiradentes": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 15
+        "stop": 22
       }
     ],
     "id": "estacao-tiradentes",
@@ -418,8 +458,10 @@
   "estacao-armenia": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 16
+        "stop": 22
       }
     ],
     "id": "estacao-armenia",
@@ -443,8 +485,10 @@
   "estacao-portuguesa-tiete": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 17
+        "stop": 22
       }
     ],
     "id": "estacao-portuguesa-tiete",
@@ -468,8 +512,10 @@
   "estacao-carandiru": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 18
+        "stop": 22
       }
     ],
     "id": "estacao-carandiru",
@@ -493,8 +539,10 @@
   "estacao-santana": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 19
+        "stop": 22
       }
     ],
     "id": "estacao-santana",
@@ -518,8 +566,10 @@
   "estacao-jardim-sao-paulo": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 20
+        "stop": 22
       }
     ],
     "id": "estacao-jardim-sao-paulo",
@@ -543,8 +593,10 @@
   "estacao-parada-inglesa": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
-        "stop": 21
+        "stop": 22
       }
     ],
     "id": "estacao-parada-inglesa",
@@ -568,6 +620,8 @@
   "estacao-tucuruvi": {
     "lines": [
       {
+        "title": "Linha 1 - Azul",
+        "color": "blue",
         "id": "linha-1-azul",
         "stop": 22
       }
@@ -593,8 +647,10 @@
   "estacao-vila-prudente": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 0
+        "stop": 13
       }
     ],
     "id": "estacao-vila-prudente",
@@ -618,8 +674,10 @@
   "estacao-tamanduatei": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 1
+        "stop": 13
       }
     ],
     "id": "estacao-tamanduatei",
@@ -643,8 +701,10 @@
   "estacao-sacoma": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 2
+        "stop": 13
       }
     ],
     "id": "estacao-sacoma",
@@ -668,8 +728,10 @@
   "estacao-alto-ipiranga": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 3
+        "stop": 13
       }
     ],
     "id": "estacao-alto-ipiranga",
@@ -693,8 +755,10 @@
   "estacao-santos-imigrantes": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 4
+        "stop": 13
       }
     ],
     "id": "estacao-santos-imigrantes",
@@ -718,8 +782,10 @@
   "estacao-chacara-klabin": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 5
+        "stop": 13
       }
     ],
     "id": "estacao-chacara-klabin",
@@ -743,8 +809,10 @@
   "estacao-brigadeiro": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 8
+        "stop": 13
       }
     ],
     "id": "estacao-brigadeiro",
@@ -768,8 +836,10 @@
   "estacao-trianon-masp": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 9
+        "stop": 13
       }
     ],
     "id": "estacao-trianon-masp",
@@ -793,8 +863,10 @@
   "estacao-consolacao": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 10
+        "stop": 13
       }
     ],
     "id": "estacao-consolacao",
@@ -818,8 +890,10 @@
   "estacao-clinicas": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 11
+        "stop": 13
       }
     ],
     "id": "estacao-clinicas",
@@ -843,8 +917,10 @@
   "estacao-sumare": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
-        "stop": 12
+        "stop": 13
       }
     ],
     "id": "estacao-sumare",
@@ -868,6 +944,8 @@
   "estacao-vila-madalena": {
     "lines": [
       {
+        "title": "Linha 2 - Verde",
+        "color": "green",
         "id": "linha-2-verde",
         "stop": 13
       }
@@ -893,8 +971,10 @@
   "estacao-itaquera": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 0
+        "stop": 17
       }
     ],
     "id": "estacao-itaquera",
@@ -918,8 +998,10 @@
   "estacao-artur-alvim": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 1
+        "stop": 17
       }
     ],
     "id": "estacao-artur-alvim",
@@ -943,8 +1025,10 @@
   "estacao-patriarca": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 2
+        "stop": 17
       }
     ],
     "id": "estacao-patriarca",
@@ -968,8 +1052,10 @@
   "estacao-guilhermina-esperanca": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 3
+        "stop": 17
       }
     ],
     "id": "estacao-guilhermina-esperanca",
@@ -993,8 +1079,10 @@
   "estacao-vila-matilde": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 4
+        "stop": 17
       }
     ],
     "id": "estacao-vila-matilde",
@@ -1018,8 +1106,10 @@
   "estacao-penha": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 5
+        "stop": 17
       }
     ],
     "id": "estacao-penha",
@@ -1043,8 +1133,10 @@
   "estacao-carrao": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 6
+        "stop": 17
       }
     ],
     "id": "estacao-carrao",
@@ -1068,8 +1160,10 @@
   "estacao-tatuape": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 7
+        "stop": 17
       }
     ],
     "id": "estacao-tatuape",
@@ -1093,8 +1187,10 @@
   "estacao-belem": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 8
+        "stop": 17
       }
     ],
     "id": "estacao-belem",
@@ -1118,8 +1214,10 @@
   "estacao-bresser-mooca": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 9
+        "stop": 17
       }
     ],
     "id": "estacao-bresser-mooca",
@@ -1143,8 +1241,10 @@
   "estacao-bras": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 10
+        "stop": 17
       }
     ],
     "id": "estacao-bras",
@@ -1168,8 +1268,10 @@
   "estacao-pedro-II": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 11
+        "stop": 17
       }
     ],
     "id": "estacao-pedro-II",
@@ -1193,8 +1295,10 @@
   "estacao-anhangabau": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 13
+        "stop": 17
       }
     ],
     "id": "estacao-anhangabau",
@@ -1218,12 +1322,16 @@
   "estacao-republica": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 14
+        "stop": 17
       },
       {
+        "title": "Linha 4 - Amarela",
+        "color": "yellow",
         "id": "linha-4-amarela",
-        "stop": 1
+        "stop": 5
       }
     ],
     "id": "estacao-republica",
@@ -1247,8 +1355,10 @@
   "estacao-santa-cecilia": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 15
+        "stop": 17
       }
     ],
     "id": "estacao-santa-cecilia",
@@ -1272,8 +1382,10 @@
   "estacao-marechal-deodoro": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
-        "stop": 16
+        "stop": 17
       }
     ],
     "id": "estacao-marechal-deodoro",
@@ -1297,6 +1409,8 @@
   "estacao-barra-funda": {
     "lines": [
       {
+        "title": "Linha 3 - Vermelha",
+        "color": "red",
         "id": "linha-3-vermelha",
         "stop": 17
       }
@@ -1322,8 +1436,10 @@
   "estacao-paulista": {
     "lines": [
       {
+        "title": "Linha 4 - Amarela",
+        "color": "yellow",
         "id": "linha-4-amarela",
-        "stop": 2
+        "stop": 5
       }
     ],
     "id": "estacao-paulista",
@@ -1347,8 +1463,10 @@
   "estacao-faria-lima": {
     "lines": [
       {
+        "title": "Linha 4 - Amarela",
+        "color": "yellow",
         "id": "linha-4-amarela",
-        "stop": 3
+        "stop": 5
       }
     ],
     "id": "estacao-faria-lima",
@@ -1372,8 +1490,10 @@
   "estacao-pinheiros": {
     "lines": [
       {
+        "title": "Linha 4 - Amarela",
+        "color": "yellow",
         "id": "linha-4-amarela",
-        "stop": 4
+        "stop": 5
       }
     ],
     "id": "estacao-pinheiros",
@@ -1397,6 +1517,8 @@
   "estacao-butanta": {
     "lines": [
       {
+        "title": "Linha 4 - Amarela",
+        "color": "yellow",
         "id": "linha-4-amarela",
         "stop": 5
       }
@@ -1422,8 +1544,10 @@
   "estacao-capao-redondo": {
     "lines": [
       {
+        "title": "Linha 5 - Lilás",
+        "color": "magenta",
         "id": "linha-5-lilas",
-        "stop": 0
+        "stop": 5
       }
     ],
     "id": "estacao-capao-redondo",
@@ -1443,8 +1567,10 @@
   "estacao-campo-limpo": {
     "lines": [
       {
+        "title": "Linha 5 - Lilás",
+        "color": "magenta",
         "id": "linha-5-lilas",
-        "stop": 1
+        "stop": 5
       }
     ],
     "id": "estacao-campo-limpo",
@@ -1464,8 +1590,10 @@
   "estacao-vila-belezas": {
     "lines": [
       {
+        "title": "Linha 5 - Lilás",
+        "color": "magenta",
         "id": "linha-5-lilas",
-        "stop": 2
+        "stop": 5
       }
     ],
     "id": "estacao-vila-belezas",
@@ -1485,8 +1613,10 @@
   "estacao-giovanni-gronchi": {
     "lines": [
       {
+        "title": "Linha 5 - Lilás",
+        "color": "magenta",
         "id": "linha-5-lilas",
-        "stop": 3
+        "stop": 5
       }
     ],
     "id": "estacao-giovanni-gronchi",
@@ -1506,8 +1636,10 @@
   "estacao-santo-amaro": {
     "lines": [
       {
+        "title": "Linha 5 - Lilás",
+        "color": "magenta",
         "id": "linha-5-lilas",
-        "stop": 4
+        "stop": 5
       }
     ],
     "id": "estacao-santo-amaro",
@@ -1527,6 +1659,8 @@
   "estacao-largo-treze": {
     "lines": [
       {
+        "title": "Linha 5 - Lilás",
+        "color": "magenta",
         "id": "linha-5-lilas",
         "stop": 5
       }
