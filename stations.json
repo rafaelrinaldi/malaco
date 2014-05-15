@@ -6,6 +6,7 @@
         "stop": 0
       }
     ],
+    "id": "estacao-jabaquara",
     "title": "Jabaquara",
     "schedule": [
       {
@@ -19,7 +20,8 @@
     ],
     "location": {
       "latitude": "-23.645754",
-      "longitude": "-46.642084"
+      "longitude": "-46.642084",
+      "address": "Rua Dos Jequitibás, 80"
     }
   },
   "estacao-conceicao": {
@@ -29,6 +31,7 @@
         "stop": 1
       }
     ],
+    "id": "estacao-conceicao",
     "title": "Conceição",
     "schedule": [
       {
@@ -42,7 +45,8 @@
     ],
     "location": {
       "latitude": "-23.63537",
-      "longitude": "-46.64146"
+      "longitude": "-46.64146",
+      "address": "Av. Eng. Armando De Arruda Pereira, 919"
     }
   },
   "estacao-sao-judas": {
@@ -52,6 +56,7 @@
         "stop": 2
       }
     ],
+    "id": "estacao-sao-judas",
     "title": "São Judas",
     "schedule": [
       {
@@ -65,7 +70,8 @@
     ],
     "location": {
       "latitude": "-23.62558",
-      "longitude": "-46.640778"
+      "longitude": "-46.640778",
+      "address": "Av. Jabaquara, 2438"
     }
   },
   "estacao-saude": {
@@ -75,6 +81,7 @@
         "stop": 3
       }
     ],
+    "id": "estacao-saude",
     "title": "Saúde",
     "schedule": [
       {
@@ -88,7 +95,8 @@
     ],
     "location": {
       "latitude": "-23.619207",
-      "longitude": "-46.639354"
+      "longitude": "-46.639354",
+      "address": "Av. Jabaquara, 1634"
     }
   },
   "estacao-praca-arvore": {
@@ -98,6 +106,7 @@
         "stop": 4
       }
     ],
+    "id": "estacao-praca-arvore",
     "title": "Praça Da árvore",
     "schedule": [
       {
@@ -111,7 +120,8 @@
     ],
     "location": {
       "latitude": "-23.61069",
-      "longitude": "-46.637852"
+      "longitude": "-46.637852",
+      "address": "Praça Da árvore, 39"
     }
   },
   "estacao-santa-cruz": {
@@ -121,6 +131,7 @@
         "stop": 5
       }
     ],
+    "id": "estacao-santa-cruz",
     "title": "Santa Cruz",
     "schedule": [
       {
@@ -134,7 +145,8 @@
     ],
     "location": {
       "latitude": "-23.599225",
-      "longitude": "-46.636659"
+      "longitude": "-46.636659",
+      "address": "Rua Domingos De Morais, 2564"
     }
   },
   "estacao-vila-mariana": {
@@ -144,6 +156,7 @@
         "stop": 6
       }
     ],
+    "id": "estacao-vila-mariana",
     "title": "Vila Mariana",
     "schedule": [
       {
@@ -157,7 +170,8 @@
     ],
     "location": {
       "latitude": "-23.589541",
-      "longitude": "-46.634701"
+      "longitude": "-46.634701",
+      "address": "Av. Prof. Noé Azevedo, 255"
     }
   },
   "estacao-ana-rosa": {
@@ -171,6 +185,7 @@
         "stop": 6
       }
     ],
+    "id": "estacao-ana-rosa",
     "title": "Ana Rosa",
     "schedule": [
       {
@@ -184,7 +199,8 @@
     ],
     "location": {
       "latitude": "-23.581376",
-      "longitude": "-46.638388"
+      "longitude": "-46.638388",
+      "address": "Rua Domingos De Morais, 505"
     }
   },
   "estacao-paraiso": {
@@ -198,6 +214,7 @@
         "stop": 7
       }
     ],
+    "id": "estacao-paraiso",
     "title": "Paraíso",
     "schedule": [
       {
@@ -211,7 +228,8 @@
     ],
     "location": {
       "latitude": "-23.575029",
-      "longitude": "-46.64075"
+      "longitude": "-46.64075",
+      "address": "Rua Vergueiro, 1456"
     }
   },
   "estacao-vergueiro": {
@@ -221,6 +239,7 @@
         "stop": 9
       }
     ],
+    "id": "estacao-vergueiro",
     "title": "Vergueiro",
     "schedule": [
       {
@@ -234,7 +253,8 @@
     ],
     "location": {
       "latitude": "-23.568994",
-      "longitude": "-46.639858"
+      "longitude": "-46.639858",
+      "address": "Rua Vergueiro, 790"
     }
   },
   "estacao-sao-joaquim": {
@@ -244,6 +264,7 @@
         "stop": 10
       }
     ],
+    "id": "estacao-sao-joaquim",
     "title": "São Joaquim",
     "schedule": [
       {
@@ -257,7 +278,8 @@
     ],
     "location": {
       "latitude": "-23.561912",
-      "longitude": "-46.638652"
+      "longitude": "-46.638652",
+      "address": "Av. Liberdade, 1033"
     }
   },
   "estacao-liberdade": {
@@ -267,6 +289,7 @@
         "stop": 11
       }
     ],
+    "id": "estacao-liberdade",
     "title": "Liberdade",
     "schedule": [
       {
@@ -280,7 +303,8 @@
     ],
     "location": {
       "latitude": "-23.555535",
-      "longitude": "-46.635956"
+      "longitude": "-46.635956",
+      "address": "Praça Da Liberdade, 133"
     }
   },
   "estacao-se": {
@@ -294,6 +318,7 @@
         "stop": 12
       }
     ],
+    "id": "estacao-se",
     "title": "Sé",
     "schedule": [
       {
@@ -307,7 +332,8 @@
     ],
     "location": {
       "latitude": "-23.549918",
-      "longitude": "-46.633204"
+      "longitude": "-46.633204",
+      "address": "Praça Da Sé, S/nº"
     }
   },
   "estacao-sao-bento": {
@@ -317,6 +343,7 @@
         "stop": 13
       }
     ],
+    "id": "estacao-sao-bento",
     "title": "São Bento",
     "schedule": [
       {
@@ -330,7 +357,8 @@
     ],
     "location": {
       "latitude": "-23.54469",
-      "longitude": "-46.633263"
+      "longitude": "-46.633263",
+      "address": "Largo São Bento, 109"
     }
   },
   "estacao-luz": {
@@ -344,6 +372,7 @@
         "stop": 0
       }
     ],
+    "id": "estacao-luz",
     "title": "Luz",
     "schedule": [
       {
@@ -357,7 +386,8 @@
     ],
     "location": {
       "latitude": "-23.537952",
-      "longitude": "-46.633515"
+      "longitude": "-46.633515",
+      "address": "Av. Prestes Maia, 925"
     }
   },
   "estacao-tiradentes": {
@@ -367,6 +397,7 @@
         "stop": 15
       }
     ],
+    "id": "estacao-tiradentes",
     "title": "Tiradentes",
     "schedule": [
       {
@@ -380,7 +411,8 @@
     ],
     "location": {
       "latitude": "-23.5337729",
-      "longitude": "-46.63232"
+      "longitude": "-46.63232",
+      "address": "Av. Tiradentes, 551"
     }
   },
   "estacao-armenia": {
@@ -390,6 +422,7 @@
         "stop": 16
       }
     ],
+    "id": "estacao-armenia",
     "title": "Armênia",
     "schedule": [
       {
@@ -403,7 +436,8 @@
     ],
     "location": {
       "latitude": "-23.5295174",
-      "longitude": "-46.6314382"
+      "longitude": "-46.6314382",
+      "address": "Rua Pedro Vicente, 47"
     }
   },
   "estacao-portuguesa-tiete": {
@@ -413,6 +447,7 @@
         "stop": 17
       }
     ],
+    "id": "estacao-portuguesa-tiete",
     "title": "Portuguesa - Tietê",
     "schedule": [
       {
@@ -426,7 +461,8 @@
     ],
     "location": {
       "latitude": "-23.516587",
-      "longitude": "-46.625123"
+      "longitude": "-46.625123",
+      "address": "Av. Cruzeiro Do Sul, 1777"
     }
   },
   "estacao-carandiru": {
@@ -436,6 +472,7 @@
         "stop": 18
       }
     ],
+    "id": "estacao-carandiru",
     "title": "Carandiru",
     "schedule": [
       {
@@ -449,7 +486,8 @@
     ],
     "location": {
       "latitude": "-23.509654",
-      "longitude": "-46.62491"
+      "longitude": "-46.62491",
+      "address": "Av. Cruzeiro Do Sul, 2487"
     }
   },
   "estacao-santana": {
@@ -459,6 +497,7 @@
         "stop": 19
       }
     ],
+    "id": "estacao-santana",
     "title": "Santana",
     "schedule": [
       {
@@ -472,7 +511,8 @@
     ],
     "location": {
       "latitude": "-23.503134",
-      "longitude": "-46.623861"
+      "longitude": "-46.623861",
+      "address": "Av. Cruzeiro Do Sul, 3173"
     }
   },
   "estacao-jardim-sao-paulo": {
@@ -482,6 +522,7 @@
         "stop": 20
       }
     ],
+    "id": "estacao-jardim-sao-paulo",
     "title": "Jardim São Paulo - Ayrton Senna",
     "schedule": [
       {
@@ -495,7 +536,8 @@
     ],
     "location": {
       "latitude": "-23.492233",
-      "longitude": "-46.616687"
+      "longitude": "-46.616687",
+      "address": "Av. Leôncio De Magalhães, 1000"
     }
   },
   "estacao-parada-inglesa": {
@@ -505,6 +547,7 @@
         "stop": 21
       }
     ],
+    "id": "estacao-parada-inglesa",
     "title": "Parada Inglesa",
     "schedule": [
       {
@@ -518,7 +561,8 @@
     ],
     "location": {
       "latitude": "-23.487111",
-      "longitude": "-46.608877"
+      "longitude": "-46.608877",
+      "address": "Av. Luís Dumont Villares, 1721"
     }
   },
   "estacao-tucuruvi": {
@@ -528,6 +572,7 @@
         "stop": 22
       }
     ],
+    "id": "estacao-tucuruvi",
     "title": "Tucuruvi",
     "schedule": [
       {
@@ -541,7 +586,8 @@
     ],
     "location": {
       "latitude": "-23.480048",
-      "longitude": "-46.603211"
+      "longitude": "-46.603211",
+      "address": "Av. Dr. Antonio Maria De Laet, 100"
     }
   },
   "estacao-vila-prudente": {
@@ -551,6 +597,7 @@
         "stop": 0
       }
     ],
+    "id": "estacao-vila-prudente",
     "title": "Vila Prudente",
     "schedule": [
       {
@@ -564,7 +611,8 @@
     ],
     "location": {
       "latitude": "-23.584695",
-      "longitude": "-46.58153"
+      "longitude": "-46.58153",
+      "address": "Avenida Professor Luiz Inácio De Anhaia Mello, 1.359"
     }
   },
   "estacao-tamanduatei": {
@@ -574,6 +622,7 @@
         "stop": 1
       }
     ],
+    "id": "estacao-tamanduatei",
     "title": "Tamanduateí",
     "schedule": [
       {
@@ -587,7 +636,8 @@
     ],
     "location": {
       "latitude": "-23.592984",
-      "longitude": "-46.589602"
+      "longitude": "-46.589602",
+      "address": "Entre A Avenida Presidente Wilson E A Rua Guamiranga."
     }
   },
   "estacao-sacoma": {
@@ -597,6 +647,7 @@
         "stop": 2
       }
     ],
+    "id": "estacao-sacoma",
     "title": "Sacomã",
     "schedule": [
       {
@@ -610,7 +661,8 @@
     ],
     "location": {
       "latitude": "-23.602456",
-      "longitude": "-46.602319"
+      "longitude": "-46.602319",
+      "address": "Sob A Rua Greenfeld, Entre As Ruas Bom Pastor E Lino Coutinho. "
     }
   },
   "estacao-alto-ipiranga": {
@@ -620,6 +672,7 @@
         "stop": 3
       }
     ],
+    "id": "estacao-alto-ipiranga",
     "title": "Alto Do Ipiranga",
     "schedule": [
       {
@@ -633,7 +686,8 @@
     ],
     "location": {
       "latitude": "-23.602437",
-      "longitude": "-46.612713"
+      "longitude": "-46.612713",
+      "address": "Rua Dr. Gentil De Moura, Esquina Com Rua Visconde De Pirajá."
     }
   },
   "estacao-santos-imigrantes": {
@@ -643,6 +697,7 @@
         "stop": 4
       }
     ],
+    "id": "estacao-santos-imigrantes",
     "title": "Santos - Imigrantes",
     "schedule": [
       {
@@ -656,7 +711,8 @@
     ],
     "location": {
       "latitude": "-23.595716",
-      "longitude": "-46.620723"
+      "longitude": "-46.620723",
+      "address": "Paralela Ao Viaduto Saioá E Perpendicular à Av. Dr. Ricardo Jafet"
     }
   },
   "estacao-chacara-klabin": {
@@ -666,6 +722,7 @@
         "stop": 5
       }
     ],
+    "id": "estacao-chacara-klabin",
     "title": "Chácara Klabin",
     "schedule": [
       {
@@ -679,7 +736,8 @@
     ],
     "location": {
       "latitude": "-23.592527",
-      "longitude": "-46.630193"
+      "longitude": "-46.630193",
+      "address": "Rua Vergueiro Em Frente Ao Instituto De Ensino Liceu Pasteur."
     }
   },
   "estacao-brigadeiro": {
@@ -689,6 +747,7 @@
         "stop": 8
       }
     ],
+    "id": "estacao-brigadeiro",
     "title": "Brigadeiro",
     "schedule": [
       {
@@ -702,7 +761,8 @@
     ],
     "location": {
       "latitude": "-23.568241",
-      "longitude": "-46.647981"
+      "longitude": "-46.647981",
+      "address": "Av. Paulista, S/nº (em Frente Ao Nº 447)"
     }
   },
   "estacao-trianon-masp": {
@@ -712,6 +772,7 @@
         "stop": 9
       }
     ],
+    "id": "estacao-trianon-masp",
     "title": "Trianon - Masp",
     "schedule": [
       {
@@ -725,7 +786,8 @@
     ],
     "location": {
       "latitude": "-23.5619028",
-      "longitude": "-46.6468096"
+      "longitude": "-46.6468096",
+      "address": "Av. Paulista, S/nº (em Frente Ao Nº 1485)"
     }
   },
   "estacao-consolacao": {
@@ -735,6 +797,7 @@
         "stop": 10
       }
     ],
+    "id": "estacao-consolacao",
     "title": "Consolação",
     "schedule": [
       {
@@ -748,7 +811,8 @@
     ],
     "location": {
       "latitude": "-23.558559",
-      "longitude": "-46.659569"
+      "longitude": "-46.659569",
+      "address": "Av. Paulista, S/nº (em Frente Ao Nº 2163)"
     }
   },
   "estacao-clinicas": {
@@ -758,6 +822,7 @@
         "stop": 11
       }
     ],
+    "id": "estacao-clinicas",
     "title": "Clínicas",
     "schedule": [
       {
@@ -771,7 +836,8 @@
     ],
     "location": {
       "latitude": "-23.555581",
-      "longitude": "-46.671949"
+      "longitude": "-46.671949",
+      "address": "Av. Dr. Arnaldo, 555"
     }
   },
   "estacao-sumare": {
@@ -781,6 +847,7 @@
         "stop": 12
       }
     ],
+    "id": "estacao-sumare",
     "title": "S. N. Sra. De Fátima - Sumaré",
     "schedule": [
       {
@@ -794,7 +861,8 @@
     ],
     "location": {
       "latitude": "-23.5506341",
-      "longitude": "-46.6782604"
+      "longitude": "-46.6782604",
+      "address": "Av. Dr.arnaldo, 1470"
     }
   },
   "estacao-vila-madalena": {
@@ -804,6 +872,7 @@
         "stop": 13
       }
     ],
+    "id": "estacao-vila-madalena",
     "title": "Vila Madalena",
     "schedule": [
       {
@@ -817,7 +886,8 @@
     ],
     "location": {
       "latitude": "-23.54672",
-      "longitude": "-46.690738"
+      "longitude": "-46.690738",
+      "address": "Praça Américo Jacomino, 30"
     }
   },
   "estacao-itaquera": {
@@ -827,6 +897,7 @@
         "stop": 0
       }
     ],
+    "id": "estacao-itaquera",
     "title": "Corinthians - Itaquera",
     "schedule": [
       {
@@ -840,7 +911,8 @@
     ],
     "location": {
       "latitude": "-23.541854",
-      "longitude": "-46.470514"
+      "longitude": "-46.470514",
+      "address": "Av. Projetada, 1900"
     }
   },
   "estacao-artur-alvim": {
@@ -850,6 +922,7 @@
         "stop": 1
       }
     ],
+    "id": "estacao-artur-alvim",
     "title": "Artur Alvim",
     "schedule": [
       {
@@ -863,7 +936,8 @@
     ],
     "location": {
       "latitude": "-23.541022",
-      "longitude": "-46.4847"
+      "longitude": "-46.4847",
+      "address": "Av. Dr. Luiz Aires, 1800"
     }
   },
   "estacao-patriarca": {
@@ -873,6 +947,7 @@
         "stop": 2
       }
     ],
+    "id": "estacao-patriarca",
     "title": "Patriarca",
     "schedule": [
       {
@@ -886,7 +961,8 @@
     ],
     "location": {
       "latitude": "-23.531079",
-      "longitude": "-46.501715"
+      "longitude": "-46.501715",
+      "address": "Av. Antonio E. Carvalho, 1990"
     }
   },
   "estacao-guilhermina-esperanca": {
@@ -896,6 +972,7 @@
         "stop": 3
       }
     ],
+    "id": "estacao-guilhermina-esperanca",
     "title": "Guilhermina - Esperança",
     "schedule": [
       {
@@ -909,7 +986,8 @@
     ],
     "location": {
       "latitude": "-23.529195",
-      "longitude": "-46.516734"
+      "longitude": "-46.516734",
+      "address": "Rua Astorga, 800"
     }
   },
   "estacao-vila-matilde": {
@@ -919,6 +997,7 @@
         "stop": 4
       }
     ],
+    "id": "estacao-vila-matilde",
     "title": "Vila Matilde",
     "schedule": [
       {
@@ -932,7 +1011,8 @@
     ],
     "location": {
       "latitude": "-23.531903",
-      "longitude": "-46.530539"
+      "longitude": "-46.530539",
+      "address": "Rua Cel. Pedro Dias De Campos, 1173"
     }
   },
   "estacao-penha": {
@@ -942,6 +1022,7 @@
         "stop": 5
       }
     ],
+    "id": "estacao-penha",
     "title": "Penha",
     "schedule": [
       {
@@ -955,7 +1036,8 @@
     ],
     "location": {
       "latitude": "-23.532992",
-      "longitude": "-46.542828"
+      "longitude": "-46.542828",
+      "address": "Av. Conde De Frontin, S/nº"
     }
   },
   "estacao-carrao": {
@@ -965,6 +1047,7 @@
         "stop": 6
       }
     ],
+    "id": "estacao-carrao",
     "title": "Carrão",
     "schedule": [
       {
@@ -978,7 +1061,8 @@
     ],
     "location": {
       "latitude": "-23.538001",
-      "longitude": "-46.561886"
+      "longitude": "-46.561886",
+      "address": "Av. Radial Leste, S/nº (esquina Com Rua Apucarana)"
     }
   },
   "estacao-tatuape": {
@@ -988,6 +1072,7 @@
         "stop": 7
       }
     ],
+    "id": "estacao-tatuape",
     "title": "Tatuapé",
     "schedule": [
       {
@@ -1001,7 +1086,8 @@
     ],
     "location": {
       "latitude": "-23.542064",
-      "longitude": "-46.576215"
+      "longitude": "-46.576215",
+      "address": "Rua Melo Freire, S/nº (esquina Com A Rua Tuiuti)"
     }
   },
   "estacao-belem": {
@@ -1011,6 +1097,7 @@
         "stop": 8
       }
     ],
+    "id": "estacao-belem",
     "title": "Belém",
     "schedule": [
       {
@@ -1024,7 +1111,8 @@
     ],
     "location": {
       "latitude": "-23.54223",
-      "longitude": "-46.589778"
+      "longitude": "-46.589778",
+      "address": "Av. Alcântara Machado, S/nº"
     }
   },
   "estacao-bresser-mooca": {
@@ -1034,6 +1122,7 @@
         "stop": 9
       }
     ],
+    "id": "estacao-bresser-mooca",
     "title": "Bresser - Mooca",
     "schedule": [
       {
@@ -1047,7 +1136,8 @@
     ],
     "location": {
       "latitude": "-23.546596",
-      "longitude": "-46.607323"
+      "longitude": "-46.607323",
+      "address": "Rua Do Hipódromo, S/nº"
     }
   },
   "estacao-bras": {
@@ -1057,6 +1147,7 @@
         "stop": 10
       }
     ],
+    "id": "estacao-bras",
     "title": "Brás",
     "schedule": [
       {
@@ -1070,7 +1161,8 @@
     ],
     "location": {
       "latitude": "-23.547686",
-      "longitude": "-46.615285"
+      "longitude": "-46.615285",
+      "address": "Rua Domingos Paiva, S/nº"
     }
   },
   "estacao-pedro-II": {
@@ -1080,6 +1172,7 @@
         "stop": 11
       }
     ],
+    "id": "estacao-pedro-II",
     "title": "Pedro Ii",
     "schedule": [
       {
@@ -1093,7 +1186,8 @@
     ],
     "location": {
       "latitude": "-23.550022",
-      "longitude": "-46.625727"
+      "longitude": "-46.625727",
+      "address": "Rua Da Figueira, S/nº"
     }
   },
   "estacao-anhangabau": {
@@ -1103,6 +1197,7 @@
         "stop": 13
       }
     ],
+    "id": "estacao-anhangabau",
     "title": "Anhangabaú",
     "schedule": [
       {
@@ -1116,7 +1211,8 @@
     ],
     "location": {
       "latitude": "-23.547916",
-      "longitude": "-46.639324"
+      "longitude": "-46.639324",
+      "address": "Rua Formosa, S/nº"
     }
   },
   "estacao-republica": {
@@ -1130,6 +1226,7 @@
         "stop": 1
       }
     ],
+    "id": "estacao-republica",
     "title": "República",
     "schedule": [
       {
@@ -1143,7 +1240,8 @@
     ],
     "location": {
       "latitude": "-23.541929",
-      "longitude": "-46.642249"
+      "longitude": "-46.642249",
+      "address": "Rua Do Arouche, 24"
     }
   },
   "estacao-santa-cecilia": {
@@ -1153,6 +1251,7 @@
         "stop": 15
       }
     ],
+    "id": "estacao-santa-cecilia",
     "title": "Santa Cecília",
     "schedule": [
       {
@@ -1166,7 +1265,8 @@
     ],
     "location": {
       "latitude": "-23.538694",
-      "longitude": "-46.649732"
+      "longitude": "-46.649732",
+      "address": "Largo Santa Cecília, S/nº"
     }
   },
   "estacao-marechal-deodoro": {
@@ -1176,6 +1276,7 @@
         "stop": 16
       }
     ],
+    "id": "estacao-marechal-deodoro",
     "title": "Marechal Deodoro",
     "schedule": [
       {
@@ -1189,7 +1290,8 @@
     ],
     "location": {
       "latitude": "-23.533838",
-      "longitude": "-46.655863"
+      "longitude": "-46.655863",
+      "address": "Praça Marechal Deodoro, S/nº"
     }
   },
   "estacao-barra-funda": {
@@ -1199,6 +1301,7 @@
         "stop": 17
       }
     ],
+    "id": "estacao-barra-funda",
     "title": "Palmeiras - Barra Funda",
     "schedule": [
       {
@@ -1212,7 +1315,8 @@
     ],
     "location": {
       "latitude": "-23.525714",
-      "longitude": "-46.666782"
+      "longitude": "-46.666782",
+      "address": "Rua Bento Teobaldo Ferraz,119"
     }
   },
   "estacao-paulista": {
@@ -1222,6 +1326,7 @@
         "stop": 2
       }
     ],
+    "id": "estacao-paulista",
     "title": "Paulista",
     "schedule": [
       {
@@ -1235,7 +1340,8 @@
     ],
     "location": {
       "latitude": "-23.555391",
-      "longitude": "-46.662713"
+      "longitude": "-46.662713",
+      "address": "Rua Da Consolação, Próxima Ao Cruzamento Com A Avenida Paulista."
     }
   },
   "estacao-faria-lima": {
@@ -1245,6 +1351,7 @@
         "stop": 3
       }
     ],
+    "id": "estacao-faria-lima",
     "title": "Faria Lima",
     "schedule": [
       {
@@ -1258,7 +1365,8 @@
     ],
     "location": {
       "latitude": "-23.566972",
-      "longitude": "-46.693817"
+      "longitude": "-46.693817",
+      "address": "Avenida Faria Lima, Altura Do Número 940."
     }
   },
   "estacao-pinheiros": {
@@ -1268,6 +1376,7 @@
         "stop": 4
       }
     ],
+    "id": "estacao-pinheiros",
     "title": "Pinheiros",
     "schedule": [
       {
@@ -1281,7 +1390,8 @@
     ],
     "location": {
       "latitude": "-23.566499",
-      "longitude": "-46.702082"
+      "longitude": "-46.702082",
+      "address": "Rua Capri, 145."
     }
   },
   "estacao-butanta": {
@@ -1291,6 +1401,7 @@
         "stop": 5
       }
     ],
+    "id": "estacao-butanta",
     "title": "Butantã",
     "schedule": [
       {
@@ -1304,7 +1415,8 @@
     ],
     "location": {
       "latitude": "-23.571563",
-      "longitude": "-46.708667"
+      "longitude": "-46.708667",
+      "address": "Avenida Vital Brasil, Esquina Com A Rua Pirajussara."
     }
   },
   "estacao-capao-redondo": {
@@ -1314,6 +1426,7 @@
         "stop": 0
       }
     ],
+    "id": "estacao-capao-redondo",
     "title": "Capão Redondo",
     "schedule": [
       {
@@ -1323,7 +1436,8 @@
     ],
     "location": {
       "latitude": "-23.659955",
-      "longitude": "-46.768691"
+      "longitude": "-46.768691",
+      "address": "Av. Carlos Caldeira Filho, 4261"
     }
   },
   "estacao-campo-limpo": {
@@ -1333,6 +1447,7 @@
         "stop": 1
       }
     ],
+    "id": "estacao-campo-limpo",
     "title": "Campo Limpo",
     "schedule": [
       {
@@ -1342,7 +1457,8 @@
     ],
     "location": {
       "latitude": "-23.64897",
-      "longitude": "-46.758831"
+      "longitude": "-46.758831",
+      "address": "Rua Noanama, 85"
     }
   },
   "estacao-vila-belezas": {
@@ -1352,6 +1468,7 @@
         "stop": 2
       }
     ],
+    "id": "estacao-vila-belezas",
     "title": "Vila Das Belezas",
     "schedule": [
       {
@@ -1361,7 +1478,8 @@
     ],
     "location": {
       "latitude": "-23.640191",
-      "longitude": "-46.745659"
+      "longitude": "-46.745659",
+      "address": "Av. Das Belezas, 880"
     }
   },
   "estacao-giovanni-gronchi": {
@@ -1371,6 +1489,7 @@
         "stop": 3
       }
     ],
+    "id": "estacao-giovanni-gronchi",
     "title": "Giovanni Gronchi",
     "schedule": [
       {
@@ -1380,7 +1499,8 @@
     ],
     "location": {
       "latitude": "-23.643901",
-      "longitude": "-46.734486"
+      "longitude": "-46.734486",
+      "address": "Av. João Dias, 3569"
     }
   },
   "estacao-santo-amaro": {
@@ -1390,6 +1510,7 @@
         "stop": 4
       }
     ],
+    "id": "estacao-santo-amaro",
     "title": "Santo Amaro",
     "schedule": [
       {
@@ -1399,7 +1520,8 @@
     ],
     "location": {
       "latitude": "-23.655916",
-      "longitude": "-46.719686"
+      "longitude": "-46.719686",
+      "address": "Av. Guido Caloi, 2221"
     }
   },
   "estacao-largo-treze": {
@@ -1409,6 +1531,7 @@
         "stop": 5
       }
     ],
+    "id": "estacao-largo-treze",
     "title": "Largo Treze",
     "schedule": [
       {
@@ -1418,7 +1541,8 @@
     ],
     "location": {
       "latitude": "-23.65453",
-      "longitude": "-46.710536"
+      "longitude": "-46.710536",
+      "address": "Av Padre José Maria Com Rua Barão Do Rio Branco."
     }
   }
 }
