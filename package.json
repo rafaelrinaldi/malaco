@@ -1,7 +1,7 @@
 {
-  "name": "siga-api",
-  "version": "0.0.0",
-  "description": "Simple API to access data of Sao Paulo's subway system.",
+  "name": "malaco",
+  "version": "0.0.1",
+  "description": "Malaco is a tool to consume data from Sao Paulo's subway system.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,6 +24,7 @@
     "superagent": "~0.17.0"
   },
   "keywords": [
+    "malaco",
     "api",
     "sao",
     "paulo",
