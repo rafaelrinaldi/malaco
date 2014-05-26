@@ -4,12 +4,11 @@ var getCoverage = require('./lib/services/getCoverage'),
     getStation = require('./lib/services/getStation'),
     getStatus = require('./lib/services/getStatus'),
     getGeocode = require('./lib/services/getGeocode'),
-    getDirections = require('./lib/services/getDirections'),
+    // getDirections = require('./lib/services/getDirections'),
     parseStations = require('./lib/parsers/getCoverage/parseStations');
 
 getCoverage()
   .then(function(response) {
-    console.log(response);
     // console.log(parseStations(response));
   });
 

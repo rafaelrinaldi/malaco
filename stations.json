@@ -7,6 +7,7 @@
       }
     ],
     "id": "estacao-jabaquara",
+    "headsign": "JBQ",
     "title": "Jabaquara",
     "schedule": [
       {
@@ -32,6 +33,7 @@
       }
     ],
     "id": "estacao-conceicao",
+    "headsign": "CON",
     "title": "Conceição",
     "schedule": [
       {
@@ -57,6 +59,7 @@
       }
     ],
     "id": "estacao-sao-judas",
+    "headsign": "SJD",
     "title": "São Judas",
     "schedule": [
       {
@@ -82,6 +85,7 @@
       }
     ],
     "id": "estacao-saude",
+    "headsign": "SAU",
     "title": "Saúde",
     "schedule": [
       {
@@ -107,6 +111,7 @@
       }
     ],
     "id": "estacao-praca-arvore",
+    "headsign": "ARV",
     "title": "Praça Da árvore",
     "schedule": [
       {
@@ -132,6 +137,7 @@
       }
     ],
     "id": "estacao-santa-cruz",
+    "headsign": "STC",
     "title": "Santa Cruz",
     "schedule": [
       {
@@ -157,6 +163,7 @@
       }
     ],
     "id": "estacao-vila-mariana",
+    "headsign": "VMR",
     "title": "Vila Mariana",
     "schedule": [
       {
@@ -186,6 +193,7 @@
       }
     ],
     "id": "estacao-ana-rosa",
+    "headsign": "ANR",
     "title": "Ana Rosa",
     "schedule": [
       {
@@ -215,6 +223,7 @@
       }
     ],
     "id": "estacao-paraiso",
+    "headsign": "PAR",
     "title": "Paraíso",
     "schedule": [
       {
@@ -240,6 +249,7 @@
       }
     ],
     "id": "estacao-vergueiro",
+    "headsign": "VRG",
     "title": "Vergueiro",
     "schedule": [
       {
@@ -265,6 +275,7 @@
       }
     ],
     "id": "estacao-sao-joaquim",
+    "headsign": "SJQ",
     "title": "São Joaquim",
     "schedule": [
       {
@@ -290,6 +301,7 @@
       }
     ],
     "id": "estacao-liberdade",
+    "headsign": "LIB",
     "title": "Liberdade",
     "schedule": [
       {
@@ -319,6 +331,7 @@
       }
     ],
     "id": "estacao-se",
+    "headsign": "SE",
     "title": "Sé",
     "schedule": [
       {
@@ -344,6 +357,7 @@
       }
     ],
     "id": "estacao-sao-bento",
+    "headsign": "SBT",
     "title": "São Bento",
     "schedule": [
       {
@@ -373,6 +387,7 @@
       }
     ],
     "id": "estacao-luz",
+    "headsign": "LUZ",
     "title": "Luz",
     "schedule": [
       {
@@ -398,6 +413,7 @@
       }
     ],
     "id": "estacao-tiradentes",
+    "headsign": "TDT",
     "title": "Tiradentes",
     "schedule": [
       {
@@ -423,6 +439,7 @@
       }
     ],
     "id": "estacao-armenia",
+    "headsign": "ARM",
     "title": "Armênia",
     "schedule": [
       {
@@ -448,6 +465,7 @@
       }
     ],
     "id": "estacao-portuguesa-tiete",
+    "headsign": "TIE",
     "title": "Portuguesa - Tietê",
     "schedule": [
       {
@@ -473,6 +491,7 @@
       }
     ],
     "id": "estacao-carandiru",
+    "headsign": "CAR",
     "title": "Carandiru",
     "schedule": [
       {
@@ -498,6 +517,7 @@
       }
     ],
     "id": "estacao-santana",
+    "headsign": "SAN",
     "title": "Santana",
     "schedule": [
       {
@@ -523,6 +543,7 @@
       }
     ],
     "id": "estacao-jardim-sao-paulo",
+    "headsign": "JDS",
     "title": "Jardim São Paulo - Ayrton Senna",
     "schedule": [
       {
@@ -548,6 +569,7 @@
       }
     ],
     "id": "estacao-parada-inglesa",
+    "headsign": "IGL",
     "title": "Parada Inglesa",
     "schedule": [
       {
@@ -573,6 +595,7 @@
       }
     ],
     "id": "estacao-tucuruvi",
+    "headsign": "TUC",
     "title": "Tucuruvi",
     "schedule": [
       {
@@ -598,6 +621,7 @@
       }
     ],
     "id": "estacao-vila-prudente",
+    "headsign": "VPR",
     "title": "Vila Prudente",
     "schedule": [
       {
@@ -623,6 +647,7 @@
       }
     ],
     "id": "estacao-tamanduatei",
+    "headsign": "TMD",
     "title": "Tamanduateí",
     "schedule": [
       {
@@ -648,6 +673,7 @@
       }
     ],
     "id": "estacao-sacoma",
+    "headsign": "SCM",
     "title": "Sacomã",
     "schedule": [
       {
@@ -673,6 +699,7 @@
       }
     ],
     "id": "estacao-alto-ipiranga",
+    "headsign": "IPR",
     "title": "Alto Do Ipiranga",
     "schedule": [
       {
@@ -698,6 +725,7 @@
       }
     ],
     "id": "estacao-santos-imigrantes",
+    "headsign": "IMG",
     "title": "Santos - Imigrantes",
     "schedule": [
       {
@@ -723,6 +751,7 @@
       }
     ],
     "id": "estacao-chacara-klabin",
+    "headsign": "KLB",
     "title": "Chácara Klabin",
     "schedule": [
       {
@@ -748,6 +777,7 @@
       }
     ],
     "id": "estacao-brigadeiro",
+    "headsign": "BGD",
     "title": "Brigadeiro",
     "schedule": [
       {
@@ -773,6 +803,7 @@
       }
     ],
     "id": "estacao-trianon-masp",
+    "headsign": "MSP",
     "title": "Trianon - Masp",
     "schedule": [
       {
@@ -798,6 +829,7 @@
       }
     ],
     "id": "estacao-consolacao",
+    "headsign": "CNS",
     "title": "Consolação",
     "schedule": [
       {
@@ -823,6 +855,7 @@
       }
     ],
     "id": "estacao-clinicas",
+    "headsign": "CLN",
     "title": "Clínicas",
     "schedule": [
       {
@@ -848,6 +881,7 @@
       }
     ],
     "id": "estacao-sumare",
+    "headsign": "SUM",
     "title": "S. N. Sra. De Fátima - Sumaré",
     "schedule": [
       {
@@ -873,6 +907,7 @@
       }
     ],
     "id": "estacao-vila-madalena",
+    "headsign": "VMD",
     "title": "Vila Madalena",
     "schedule": [
       {
@@ -898,6 +933,7 @@
       }
     ],
     "id": "estacao-itaquera",
+    "headsign": "ITQ",
     "title": "Corinthians - Itaquera",
     "schedule": [
       {
@@ -923,6 +959,7 @@
       }
     ],
     "id": "estacao-artur-alvim",
+    "headsign": "ALV",
     "title": "Artur Alvim",
     "schedule": [
       {
@@ -948,6 +985,7 @@
       }
     ],
     "id": "estacao-patriarca",
+    "headsign": "PAT",
     "title": "Patriarca",
     "schedule": [
       {
@@ -973,6 +1011,7 @@
       }
     ],
     "id": "estacao-guilhermina-esperanca",
+    "headsign": "ESP",
     "title": "Guilhermina - Esperança",
     "schedule": [
       {
@@ -998,6 +1037,7 @@
       }
     ],
     "id": "estacao-vila-matilde",
+    "headsign": "MVT",
     "title": "Vila Matilde",
     "schedule": [
       {
@@ -1023,6 +1063,7 @@
       }
     ],
     "id": "estacao-penha",
+    "headsign": "PEN",
     "title": "Penha",
     "schedule": [
       {
@@ -1048,6 +1089,7 @@
       }
     ],
     "id": "estacao-carrao",
+    "headsign": "CAR",
     "title": "Carrão",
     "schedule": [
       {
@@ -1073,6 +1115,7 @@
       }
     ],
     "id": "estacao-tatuape",
+    "headsign": "TTP",
     "title": "Tatuapé",
     "schedule": [
       {
@@ -1098,6 +1141,7 @@
       }
     ],
     "id": "estacao-belem",
+    "headsign": "BLM",
     "title": "Belém",
     "schedule": [
       {
@@ -1123,6 +1167,7 @@
       }
     ],
     "id": "estacao-bresser-mooca",
+    "headsign": "BRS",
     "title": "Bresser - Mooca",
     "schedule": [
       {
@@ -1148,6 +1193,7 @@
       }
     ],
     "id": "estacao-bras",
+    "headsign": "BRA",
     "title": "Brás",
     "schedule": [
       {
@@ -1173,6 +1219,7 @@
       }
     ],
     "id": "estacao-pedro-II",
+    "headsign": "PII",
     "title": "Pedro Ii",
     "schedule": [
       {
@@ -1198,6 +1245,7 @@
       }
     ],
     "id": "estacao-anhangabau",
+    "headsign": "AGB",
     "title": "Anhangabaú",
     "schedule": [
       {
@@ -1227,6 +1275,7 @@
       }
     ],
     "id": "estacao-republica",
+    "headsign": "REP",
     "title": "República",
     "schedule": [
       {
@@ -1252,6 +1301,7 @@
       }
     ],
     "id": "estacao-santa-cecilia",
+    "headsign": "STC",
     "title": "Santa Cecília",
     "schedule": [
       {
@@ -1277,6 +1327,7 @@
       }
     ],
     "id": "estacao-marechal-deodoro",
+    "headsign": "DDR",
     "title": "Marechal Deodoro",
     "schedule": [
       {
@@ -1302,6 +1353,7 @@
       }
     ],
     "id": "estacao-barra-funda",
+    "headsign": "BFN",
     "title": "Palmeiras - Barra Funda",
     "schedule": [
       {
@@ -1327,6 +1379,7 @@
       }
     ],
     "id": "estacao-paulista",
+    "headsign": "PAU",
     "title": "Paulista",
     "schedule": [
       {
@@ -1352,6 +1405,7 @@
       }
     ],
     "id": "estacao-faria-lima",
+    "headsign": "FLM",
     "title": "Faria Lima",
     "schedule": [
       {
@@ -1377,6 +1431,7 @@
       }
     ],
     "id": "estacao-pinheiros",
+    "headsign": "PIN",
     "title": "Pinheiros",
     "schedule": [
       {
@@ -1402,6 +1457,7 @@
       }
     ],
     "id": "estacao-butanta",
+    "headsign": "BTT",
     "title": "Butantã",
     "schedule": [
       {
@@ -1427,6 +1483,7 @@
       }
     ],
     "id": "estacao-capao-redondo",
+    "headsign": "CRD",
     "title": "Capão Redondo",
     "schedule": [
       {
@@ -1448,6 +1505,7 @@
       }
     ],
     "id": "estacao-campo-limpo",
+    "headsign": "CPL",
     "title": "Campo Limpo",
     "schedule": [
       {
@@ -1469,6 +1527,7 @@
       }
     ],
     "id": "estacao-vila-belezas",
+    "headsign": "VBL",
     "title": "Vila Das Belezas",
     "schedule": [
       {
@@ -1490,6 +1549,7 @@
       }
     ],
     "id": "estacao-giovanni-gronchi",
+    "headsign": "GGR",
     "title": "Giovanni Gronchi",
     "schedule": [
       {
@@ -1511,6 +1571,7 @@
       }
     ],
     "id": "estacao-santo-amaro",
+    "headsign": "STA",
     "title": "Santo Amaro",
     "schedule": [
       {
@@ -1532,6 +1593,7 @@
       }
     ],
     "id": "estacao-largo-treze",
+    "headsign": "L13",
     "title": "Largo Treze",
     "schedule": [
       {
