@@ -13,10 +13,17 @@ status:
 import:
 	@DEBUG=* node lib/importer.js
 
-connect:
-	@cd ~/Dropbox/Projects/IED/siga-app && NODE_ENV=production gulp
+connect: refresh
+	@cd ../siga-app && NODE_ENV=production gulp
 
 serve:
 	@ngrok $(MALACO_PORT)
+
+refresh:
+	@node index.js # Will silently grab latest status data
+
+	@echo 'define(' `cat ./stations.json` ');' | sed -e 's/^[ \t]*//' | tr -d '\n' > ../siga-app/app/assets/javascripts/data/stations.js
+
+	@echo 'define(' `cat ./status.json` ');' | sed -e 's/^[ \t]*//' | tr -d '\n' > ../siga-app/app/assets/javascripts/data/status.js
 
 .PHONY: help
