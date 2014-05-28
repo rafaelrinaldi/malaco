@@ -26,4 +26,7 @@ refresh:
 
 	@echo 'define(' `cat ./status.json` ');' | sed -e 's/^[ \t]*//' | tr -d '\n' > ../siga-app/app/assets/javascripts/data/status.js
 
+simulation:
+	@cd ~/Desktop/simulator && python -m SimpleHTTPServer 8000
+
 .PHONY: help
