@@ -1,26 +1,21 @@
 {
   "name": "malaco",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Malaco is a tool to consume data from Sao Paulo's subway system.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rafael Rinaldi <rafael.rinaldi@gmail.com>",
+  "author": "Rafael Rinaldi",
   "license": "MIT",
-  "devDependencies": {
-    "superagent": "^0.17.0",
-    "cheerio": "^0.15.0",
-    "q": "^1.0.1",
-    "debug": "^0.8.1",
-    "mout": "^0.9.1",
-    "googlemaps": "^0.1.9"
-  },
   "dependencies": {
     "cheerio": "~0.15.0",
+    "debug": "^0.8.1",
     "debug": "~0.8.1",
-    "q": "~1.0.1",
+    "figlet": "^1.1.0",
+    "googlemaps": "^0.1.9",
     "mout": "~0.9.1",
+    "q": "~1.0.1",
     "superagent": "~0.17.0"
   },
   "keywords": [

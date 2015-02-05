@@ -1,12 +1,6 @@
 clear
 echo ''
-echo '##################################################################'
-echo ''
-echo '\tWelcome to Malaco command line interface.'
-echo ''
-echo '##################################################################'
-echo ''
-tput setaf 1 && tput blink && figlet -f roman -w 150 'malaco' && tput sgr0
+node banner.js
 echo 'Usage'
 echo '\tλ help\t\tshow help'
 echo '\tλ status\tget subway operational status'

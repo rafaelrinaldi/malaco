@@ -1,23 +1,7 @@
 {
-  "last-updated": "28/05/2014 07:02",
+  "last-updated": "05/02/2015 16:49",
   "status": {
-    "linha-4-amarela": {
-      "operational-status": "normal-operation",
-      "message": ""
-    },
-    "linha-1-azul": {
-      "operational-status": "normal-operation",
-      "message": ""
-    },
-    "linha-2-verde": {
-      "operational-status": "reduced-speed",
-      "message": ""
-    },
-    "linha-3-vermelha": {
-      "operational-status": "normal-operation",
-      "message": ""
-    },
-    "linha-5-lilas": {
+    "amarela": {
       "operational-status": "normal-operation",
       "message": ""
     }
