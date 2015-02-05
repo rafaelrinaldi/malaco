@@ -1,10 +1,10 @@
 MALACO_PORT=9000
-VERSION=v.0.2.3 (beta)
-LICENSE=MIT license
+VERSION=`node -e "console.log(require('package').version)"`
+LICENSE=`node -e "console.log(require('package').license)"`
 
 help:
-	@sh help.sh
-	@echo "Malaco $(VERSION) released under $(LICENSE)."
+	@node help.js
+	@echo "Malaco $(VERSION) released under $(LICENSE) license."
 	@echo ""
 
 status:
