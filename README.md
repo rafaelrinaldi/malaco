@@ -27,7 +27,7 @@ Usage
 
 # The idea
 
-While building [the app Siga](#) I've found that, despite the fact that is required by law, the data of Sao Paulo's subway system is spread accross many websites and weird documents on the web. Besides that there's a whole lot of confusion due to political issues that makes acessing the data a real challenge. To give you an example, each one of the lines are maintained by a different company, which has it's own way to "expose" the data.
+While building [the app Siga](http://github.com/rafaelrinaldi/siga) I've found that, despite the fact that is required by law, the data of Sao Paulo's subway system is spread accross many websites and weird documents on the web. Besides that there's a whole lot of confusion due to political issues that makes acessing the data a real challenge. To give you an example, each one of the lines are maintained by a different company, which has it's own way to "expose" the data.
 
 I needed a somewhat decent API to access all the data, that's why I built Malaco. It's an effort to abstract all the mess.
 
