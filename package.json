@@ -1,7 +1,7 @@
 {
   "name": "malaco",
   "version": "0.1.0",
-  "description": "Malaco is a tool to consume data from Sao Paulo's subway system.",
+  "description": "Malaco is a tool that consumes data from Sao Paulo's subway system and expose it in a normalized API.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
