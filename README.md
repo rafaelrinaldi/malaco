@@ -2,7 +2,9 @@
 
 Malaco is a tool that consumes data from Sao Paulo's subway system and expose it in a normalized API.
 
-# API
+![Malaco](./malaco.jpg)
+
+# Commands
 
 ```sh
                             oooo
@@ -41,12 +43,12 @@ I really want to someday deploy this as an app somewhere and serve the data thro
 
 Malaco was actually built on a weekend so you'll find some weird stuff for sure.
 
-First of all, the data is fetched through web scraping. There are two main requests made, the general import process which is responsible for fetching the data from a list of websites one by one and the train status service that's responsible for fetching the data about subway lines availability.
+First of all, the data is fetched via web scraping. There are two main requests made, the general import process which is responsible for fetching the data from a list of websites one by one and the train status service that's responsible for fetching the data about subway lines availability.
 
 These two import processes will generate two static files, `stations.json` and `status.json`. All the parsers will look for these files to avoid making any other requests.
 Ideally I wouldn't use IO to do that but for an MVP it worked pretty well.
 
-Another thing to notice is the coordinates data. There's a static file containing the geolocation information for every subway station. The data is fetched by a separate bookmarklet I've created. At first it was fetched and processed by the crawlers but the data provided is very inconsistent and doesn't play well with the Google Maps API which is what I'm using for parsing and processing geolocation data.
+Another thing to notice is the coordinates data. There's a static file containing the geolocation information for every subway station. The data is fetched by a separate bookmarklet I've created. At first it was fetched and processed by the scraping scripts but the data provided is very inconsistent and doesn't play well with the Google Maps API which is what I'm using for parsing and processing geolocation data.
 
 # Contributing
 
@@ -56,9 +58,9 @@ I'm usually online so also be free to get in touch via [Twitter](http://twitter.
 
 # Setup
 
-To get things up and running you must have Node installed.
+To get things up and running you must have [Node.js](http://nodejs.org) installed (with [NPM](http://npmjs.com)).
 
-There are some stuff from the setup (which you might not need at all, they're just there for demo purposes) that are pointing to a local folder of mine. `connect`, `refresh` and `simulation` will look for it.
+There are some stuff from the setup that you might not need at all, they're just there for demo purposes. They are pointing to a local folder of mine. `connect`, `refresh` and `simulation` will look for it.
 
 # License
 

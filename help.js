@@ -1,5 +1,9 @@
 'use strict';
 
+/**
+ * CLI interface.
+ */
+
 var figlet = require('figlet'),
     packageName = require('package').name,
     options = {
