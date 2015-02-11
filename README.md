@@ -18,7 +18,6 @@ o888o o888o o888o `Y888""8o o888o `Y888""8o `Y8bod8P' `Y8bod8P'
 
 
 Usage
-  λ make|help   show help
   λ status      get subway operational status
   λ import      import data to output mechanism
   λ connect     compile assets and startup local server
@@ -37,6 +36,10 @@ There are no tests, I would rewrite some stuff from scratch and probably there a
 
 I'm open sourcing it because I think it can be useful to someone else and also because I currently have no time to maintain nor improve it due to my fulltime job.
 
+[Here are the slides explaining the whole project (in Brazilian Portuguese).](https://speakerdeck.com/rafaelrinaldi/projeto-de-conclusao-de-curso)
+
+# Goal
+
 I really want to someday deploy this as an app somewhere and serve the data through a nice REST API.
 
 # How it works
@@ -52,9 +55,7 @@ Another thing to notice is the coordinates data. There's a static file containin
 
 # Contributing
 
-Please, feel free to contribute with anything. Bug reports, ideas and pull requests are welcome. For pull requests, just make sure you create a separate branch.
-
-I'm usually online so also be free to get in touch via [Twitter](http://twitter.com/rafaelrinaldi) and [Skype](skype:rafaelrinaldi).
+Please, feel free to contribute with anything. Bug reports, ideas and pull requests are welcome. For pull requests, just make sure you create a separate branch before submiting.
 
 # Setup
 
