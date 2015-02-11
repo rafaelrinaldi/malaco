@@ -1,8 +1,6 @@
-# Malaco
+![Malaco](./malaco.jpg)
 
 Malaco is a tool that consumes data from Sao Paulo's subway system and expose it in a normalized API.
-
-![Malaco](./malaco.jpg)
 
 # Commands
 
